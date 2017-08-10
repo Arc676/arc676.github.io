@@ -1,0 +1,29 @@
+	7.3	Commenting
+
+The one thing no one wants to do but everyone should do: commenting.
+
+A comment is some text that you can put in your program that isn't treated as code.
+This means you can make notes to yourself or explain to other people who might read
+your code what it does. If you pursue a career in computer science, you will likely
+have to work in a team at some point with other programmers. This is when you will
+want to be able to understand what other people's code does and others will want to
+understand what yours does. Comments in Python are preceded by a hash sign.
+
+	#This is a comment
+
+Commenting your code is very important because it's easy to forget what a piece of
+code was meant to do or why you wrote it the way you did.
+
+Examples when this might happen:
+-you gave a variable an arbitrary name when it needed a good name
+-you are returning to a project you started a long tme ago
+-you got help online (or found code online) instead of writing it yourself
+-you wrote a very complicated algorithm to solve a very complex task (while you
+	might not forget the purpose, it's easy to forget how it works)
+
+===			====
+
+Task: at some point, comment all of your code. This is so you can review it later
+	without using the task files from this ECA.
+
+===			====

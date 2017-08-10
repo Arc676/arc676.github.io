@@ -1,0 +1,48 @@
+	7.2	Comma Operator and Tuples
+
+Putting variables together with commas creates an object called a "tuple." These
+are like lists except they are immutable, meaning that they can't be changed in
+any way, so they can be used as dictionary keys IF they only contain immutable
+objects themselves, as they would otherwise be sort-of-mutable. Tuples are
+delimited by parentheses, but they are not always essential.
+
+	myTuple = (1, 2, 3, 4) # or...
+
+	myTuple = 1, 2, 3, 4
+	myTuple #=> (1, 2, 3, 4)
+	myTuple[0] #=> 1
+
+	otherTuple = [1, 2, 3], [4, 5, 6]
+	otherTuple #=> ([1, 2, 3], [4, 5, 6])
+	#here, the tuple cannot be modified but the lists can
+
+Sometimes, you just want to refer to many things in sequence. For example, say you
+have 5 values and you want to assign them to 5 different variables. You could do
+this the old-fashioned way, which would take 5 lines. Or, you can use tuples (also
+referred to as using the comma operator):
+
+	a, b, c, d = 45, 42, 6, 2
+
+This allows you to assign multiple values in a single line.
+
+A more important function of the comma operator in Python is variable swapping
+because the right hand side is evaluated before the left. This means you can swap
+two variables without the use of a temporary variable:
+
+	a, b = b, a
+
+Another use for the comma operator is with arrays. As with the first example, you
+can assign each element of an array to a separate variable if you so wish. This may
+make your program's intentions clearer, as each value will have its own identifier
+instead of simply an index.
+
+	a, b, c, d = [4, 12, 42, 63]
+
+The reverse is also possible, but the syntax is a little clunky:
+
+	myList = list((a, b, c, d))
+
+Here, the implied tuple has to be surrounded with parentheses because the list()
+function only takes one argument. The list() function has to be used because Python
+is loosely typed will therefore make myList a tuple if you don't explicitly make it
+create a  list i.e. you have to convert the tuple to a list.

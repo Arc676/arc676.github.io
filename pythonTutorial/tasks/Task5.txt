@@ -1,0 +1,79 @@
+		5.1 Creating dictionaries
+
+Dictionaries in Python are a lot like real ones. They associate some data
+to a key. In a real dictionary, the key would be the word and the data
+would be its definition.
+Dictionaries are useful because they allow us to access data that can be
+created on the fly with identifiers that the program doesn't have to know.
+
+For example, if the user wants to store information regarding several
+people, you could store this in an array. However, what if you wanted a
+specific person's information? You would have to remember the index at which
+his information is stored. With a dictionary, you can associate that person's
+data to his name.
+
+This is the structure (and also the syntax for the declaration) of a
+dictionary:
+{
+	'key' : 'value',
+	'key2' : 'value2'
+}
+
+===		====
+
+Task: Launch the Python shell. Create a dictionary. Print out its structure
+	by simply entering its identifier as the command.
+
+===		====
+
+		5.2-3 Accessing values
+
+Having data is useless if you can't use it. So how do you access data
+in a dictionary? The syntax is exactly the same as it is with arrays:
+
+oldvalue = dict[key] #gets the value associated with the given key
+dict[key] = newvalue #sets the value for the given key
+
+However, with dictionaries there is another way to get values: the
+boringly named 'get' function:
+
+dict.get(key)
+
+===		====
+
+Discussion: What do you think will be returned if you try to access a key that
+	doesn't exist?
+
+===		====
+
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+
+So what if you don't want None to be returned? You can use a default value:
+
+dict.get(key, defaultValue)
+
+This will return dict[key] if the key exists and defaultValue otherwise. This
+is useful because its shorter than checking if the key is in the dictionary
+before getting the value. It's also a very concise form of validation.
+
+===			===
+
+Task: Write a program that stores the test scores of an indefinite number of
+	students. The program should continuously ask for names until the input
+	is left blank. After obtaining a name, the program should ask for a test
+	score. Store all the students'scores in a dictionary. Print the dictionary
+	to the console before terminating the program. You should include proper
+	validation checks to ensure the program doesn't crash on bad input.
+
+===			===

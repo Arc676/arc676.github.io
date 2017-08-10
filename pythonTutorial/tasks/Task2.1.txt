@@ -1,0 +1,56 @@
+Welcome to the Raspberry Pi Club!
+
+Let's start with basic I/O using Python 2.7.
+I/O means input/output.
+
+	2.1.1: Printing to the console
+
+To output to the console, use the print command. Example:
+
+print "This will be printed to the console"
+
+===			====
+
+Task: Write a program to print the text "Hello world!" to the console
+
+===			====
+
+	2.1.2: Variables
+
+Variables are used to store data. You have to give them a unique name, 
+or identifier. Assign them values using the equals sign (=)
+
+someNumber = 0
+
+You can print variables using the print command. Taking many values and 
+stringing them together is callled concatenation. You can concatenate strings
+by using a comma (,) when printing:
+
+answer = 42
+print "The answer to life, the universe, and everything is", answer
+
+===			====
+
+Task: Write a program with some variables. Then print them to the 
+console, both with and without concatenating text.
+Extension: If you are feeling confident, try concatenating multiple 
+variables and/or strings and printing them all at once.
+
+===			====
+
+	2.1.3: Getting user input
+
+To get input from the user, use the raw_input() command. You can include 
+a prompt between the parentheses.
+
+Example:
+
+name = raw_input("Enter your name: ")
+
+===			====
+
+Task: Write a program that asks the user for their name. Then print a 
+	greeting to the console including their name.
+Hint: Use everything you have learned so far to complete this task.
+
+===			====

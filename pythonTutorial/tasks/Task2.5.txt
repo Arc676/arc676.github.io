@@ -1,0 +1,123 @@
+	2.5 Iteration
+
+Copy-pasting code is a horrible way to write programs. Generally, you want
+to avoid repeating any code if possible. This is because if you have to
+change something, you only have to change it once. You can do this by using
+a loop.
+Repeating instructions is called iteration, and can be accomplished with
+two different types of loop structures in Python.
+
+	2.5.1	for loops, range()
+
+When you know how many times you want to repeat something, you can use a
+for loop. In Python, you use a for-in structure. This is a special kind
+of for loop, but in Python it's used as the standard loop. It works by
+going through each element of a list (spec point 3).
+
+	for element in list:
+		statement
+
+We'll cover lists in more detail in the next spec point.
+
+The way it works in Python is using the range() function.
+
+	for i in range(10):
+		print i
+
+This prints all the numbers from 0 to 9. This is because the range() function
+returns a list of numbers from 0 to the argument given, excluding that
+number. The loop goes through these numbers and inside the loop each element
+of the list (so each individual number) is printed.
+The following loop does the same thing.
+
+	for i in [0, 1, 2, 3, 4, 5, 6, 7, 8, 9]:
+		print i
+
+The range function isn't limited to just numbers from 0 to n - 1. In fact, you
+can give it up to 3 arguments.
+
+	range(1, 10) #=> numbers from 1 to 9
+	range(5, 101, 5) #=> every 5th number from 5 to 100
+
+===			===
+
+Task: Write a program that asks the user for a number and prints that many
+	stars. Use the asterisk character (*).
+Extension: Instead of asking for a star count, ask for a row count. Then
+	print that many rows of stars with each row containing a number
+	of stars equal to the number of that row (starting with 1), i.e.
+	the first row will have 1 star, the second row will have 2, etc.
+
+	(See solution for some string math)
+
+===			===
+
+	2.5.2 while loops
+
+Sometimes, you don't know how many times you want to repeat something. In
+these cases, you use a while loop. It repeats as long as the condition is true.
+
+	while condition:
+		statement
+
+Other programming languages usually have a loop counter in for loops.
+This allows you to create more versatile loop conditions and, when
+looping through a list, change the position. You cannot do this with a
+for-in loop, so you have to use a while loop.
+
+	index = 0
+	while index < len(someList): #more on this in the next spec point
+		if someCondition:
+			index -= 1
+		else:
+			index += 1
+
+However, you should avoid changing the loop counter anyway unless you
+really have to because it makes it easy to get caught in an infinite
+loop.
+
+===			===
+
+Task: Write a program that prints an annoying message until the user enters
+	the correct word to stop it.
+
+===			===
+
+	2.5.3	Control Flow: break, continue
+
+To skip an iteration of a loop, use the continue statement. This allows you
+to, for example, print all numbers from 0 to 9 except 5.
+
+	for i in range(10):
+		if i == 5:
+			continue
+		print i
+
+However, in cases where you want to skip numbers at a constant interval (e.g. print
+only the even numbers from 0 to 10), you're better off using range() rather than
+testing the loop counter for divisibility each time.
+
+	for i in range(0, 11, 2):
+		print i
+
+===			===
+
+Task: Write a program that prints all the natural numbers from 1 to 100
+	except numbers that are multiples of 3 or 4.
+
+===			===
+
+To cancel all subsequent iterations of a loop, use the break statement. This
+allows you to leave an infinite loop. In fact, sometimes infinite loops are
+intentional, using only break statements to exit them.
+
+	while True:
+		if raw_input() == "lol":
+			break
+
+===			===
+
+Quick task: Modify the program you wrote for 2.5.2 to use an infinite loop
+	rather than a conditional loop and use break to exit it.
+
+===			===

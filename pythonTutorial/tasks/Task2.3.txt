@@ -1,0 +1,95 @@
+It's time to add math to the equation (puns intended)
+
+Use + for addition
+Use - for subtraction
+Use * for multiplication
+Use / for division
+
+To use the operators, put them between some numbers. Examples to try 
+with the Python interpreter:
+2 + 5 gives 7
+9 - 5 gives 4
+3 * 7 gives 21
+6 / 3 gives 2
+
+	2.3.1: Doing basic arithmetic with Python
+
+You can only do math with numerical types such as integers or floats. 
+You cannot do math with string. You can use the + operator to 
+concatenate strings but not do math (e.g. "2" + "1" gives "21", not 3). 
+For readability and to avoid issues with concatenation, you should 
+always use parentheses when you try to concatenate math and strings.
+
+Example:
+
+print "2+3 is", (2+3)
+
+will print "2+3 is 5" to the console
+
+===			====
+
+Task: Write a program that asks the user for 2 numbers. Using suitable 
+output messages, output the result of each arithmetic operation between 
+these 2	numbers. For example, if the numbers are 10 and 5, the output 
+should contain 15, 5, 50, and 2.
+
+===			====
+
+	2.3.2: Modular arithmetic (optional)
+
+Modular arithmetic plays an important role in computer science, 
+especially in security and encryption.
+The modulus, or "mod", operator is the percent sign %. This behaves the 
+same way as any other mathmatical operator.
+
+The way it works is simple. Not all integers are divisible by other 
+integers. When you divide 10 by 3 in Python you get 3. However, 3*3 is 
+9, not 10.
+This is because 10 is not divisible by 3. There is a remainder of 1. The 
+mod operator will give you this one: 10 % 3 = 1
+
+===			====
+
+Task: Write a program that asks the user for 2 numbers. Then output, 
+	with a suitable message, the remainder when the first number is 
+	divided by the second.
+
+=== ====
+
+	2.3.3: Exponents (optional)
+
+When you raise a number to a power, you multiply it by itself that 
+number of times. To do this in Python, use the ** operator.
+
+===			====
+
+Task: Write a program to ask the user for 2 numbers. Then raise the 
+first to the power of the second and output the result.
+
+===			====
+
+	2.3.4: More advanced math functions (optional)
+
+Sometimes, you need to do some more complicated math. There is a math 
+library available in Python that you can import into your program to 
+use. Just add this line to the top of your program:
+
+import math
+
+You can call math functions such as cosine by using math.cos(). Include 
+the angle in radians in the parentheses. However, this is often tedious, 
+so the library includes a math.radians() function that converts the 
+number you give it from degrees to radians.
+
+For example, this will print 1:
+
+import math
+math.sin(math.radians(90))
+
+===			====
+
+Task: Write a program that asks the user for an angle in degrees. Then 
+	use the math library to find the sine, cosine, and tangent 
+	values for the angle.
+
+===			====
