@@ -1,0 +1,64 @@
+<html>
+	<meta http-equiv="content-type" content="text/html; charset=UTF-8" />
+	<title>Projects</title>
+	<head>
+		<h1>My Projects</h1>
+		<link rel="stylesheet" href="/mainstyles.css">
+		<script type="text/javascript" src="/js/jquery.js"></script>
+		<script type="text/javascript">
+			$(document).ready(function(){
+			    $('#navbar').load('navbar.html');
+			});
+		</script>
+	</head>
+	<body>
+		<div id="navbar"></div>
+		<p>
+			These are my projects, the repositories for which you can find here on GitHub. All the repositories should include a license or some statement in the README regarding what license is being used for the project. Usually it's GPLv3, but some content such as project assets might be available under Creative Commons licenses. The text for this website is available under CC-BY-NC-SA 4.0. See <a href="/legal.html">this page</a> for more info.
+		</p>
+		<a name="PlateCodes"><h2>PlateCodes</h2></a>
+		<a href="https://github.com/Arc676/PlateCodes">Repository</a><br>
+		<p>
+			PlateCodes is an application that allows you to determine where an automobile obtained its license plate based on information on that plate. For example, all license plates for vehicles belonging to the embassy of Switzerland in Beijing begin with the number 213. If you see an Italian car with PI in the lower right hand corner, it means the license plate was issued by Pisa. See the README file for a list of supported search spaces.
+		</p>
+		<p>
+			PlateCodes is available for Mac and iOS. I'm also working on a Linux version, but progress on deployment has been slow because I haven't been able to find any detailed tutorials on how snapcraft works. If you know how to turn some QML and JavaScript (and C++, but that's a different project) into a deployable, installable Linux app, let me know by <a href="https://github.com/Arc676/PlateCodes/issues/new">opening a new issue</a> or something.
+		</p>
+		<hr>
+		<a name="Find the invisible"><h2>Find the Invisible *</h2></a>
+		<a href="https://github.com/Arc676/Find-The-Invisible-">Repository</a>
+		<p>
+			Find the Invisible * is based on a web game called Find the Invisible Cow. The project was created on request by a friend and offers users the ability to pick custom assets to use in the game. See the README file for more info on the gameplay.
+		</p>
+		<p>
+			Find the Invisible * is available for Mac. An iOS version might be created in the future, but only if a suitable touchscreen analog is found for the game mechanics.
+		</p>
+		<hr>
+		<a name="Tanks"><h2>Tanks</h2></a>
+		<a href="https://github.com/Arc676/Tanks">Repository</a>
+		<p>
+			Tanks is a strategy game based on an online Flash game of the same name. It can be easily found online simply by searching 'tanks flash game' or similar queries. The game has some bugs regarding shields and is no longer on the homepage of the original creators. My goal is to create my own version of this game and offer new mechanics and features not available in the original game. See the README file for more details.
+		</p>
+		<p>
+			Tanks is available for Mac, but I'm writing the code to be as modular as possible. Porting the project to iOS should be easy, so that might be available later.
+		</p>
+		<hr>
+		<a name="SockTalk"><h2>SockTalk</h2></a>
+		<a href="https://github.com/Arc676/SockTalk">Repository</a>
+		<p>
+			SockTalk is a command line socket-based IM program. One machine runs a server program and other users connect via the client program. Each user can specify a username and the chat can be hosted on any open port. Commands are used to disconnect, display connected users, etc. More details are available in the README and also by running /help while connected in either program.
+		</p>
+		<p>
+			The SockTalk protocol is the same as the protocol used in the <a href="https://github.com/Arc676/Java-Chat">Java project</a> on which SockTalk is based. SockTalk is written in C++ and should be compatible with any desktop platform. The program has been run on Ubuntu 16.04 LTS and Mac. If it turns out it uses a platform specific library or feature, please let me know by <a href="https://github.com/Arc676/SockTalk/issues/new">opening an issue</a>.
+		</p>
+		<hr>
+		<a name="arcutillib"><h2>Arc Utilities Library</h2></a>
+		<a href="https://github.com/Arc676/Arc-Utilities-Library">Repository</a>
+		<p>
+			The Arc Utilities Library is a set of BASh, Perl, and AppleScript scripts designed to automate certain tasks. See the beginning of each individual script for a <a href="https://en.wikipedia.org/wiki/Shebang_%28Unix%29">shebang</a>, information about script type and platform compatibility, and legal text.
+		</p>
+		<p>
+			BASh and Perl scripts can, obviously, be run on any machine that has BASh/Perl. AppleScript is only available on Mac (unless there's a Windows interpreter I'm unaware of).
+		</p>
+	</body>
+</html>
