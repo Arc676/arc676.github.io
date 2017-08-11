@@ -68,7 +68,7 @@ first to the power of the second and output the result.
 
 ===			====
 
-	2.3.4: More advanced math functions (optional)
+	2.3.4: More advanced math functions
 
 Sometimes, you need to do some more complicated math. There is a math 
 library available in Python that you can import into your program to 

@@ -29,7 +29,7 @@ of information that you give to the function. Simply put them in the parentheses
 
 ===			====
 
-Task: Write a function that asks the user for their name and define a function that
+Task: Asks the user for their name and define a function that
 	prints a greeting using the user's name. Then, print the greeting twice.
 
 ===			====

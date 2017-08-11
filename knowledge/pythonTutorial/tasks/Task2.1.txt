@@ -1,5 +1,3 @@
-Welcome to the Raspberry Pi Club!
-
 Let's start with basic I/O using Python 2.7.
 I/O means input/output.
 
