@@ -1,0 +1,66 @@
+Welcome to the command line interface! Unlike your usual computer 
+experience, you no longer have icons or a cursor.
+
+Trust me, this is better.
+
+	1.2.1: Basic commands and moving around the filesystem
+
+You should see this:
+pi@raspberrypi ~$
+
+The 'pi' part is your username. The 'raspberrypi' part is the computer 
+name or hostname. The '~' part is the directory you are currently in. 
+The tilde character ~ represents your home directory, /home/pi here and 
+/users/yourname on your normal everyday computers. The dollar sign 
+represents the fact that you are not a superuser.
+
+To run a command, type the command and press enter. The 'echo' command 
+simply echoes some text onto the screen.
+
+Run the following command now:
+echo Hello world!
+
+Now that you only have a keyboard and text, you will need to learn how 
+to move around the filesystem. Use the 'cd' command to Change Directory. 
+For example, if you have a folder called "stuff", 'cd stuff' will take 
+you to that directory. But how do you know what directories there are? 
+Use the 'ls' command. To move up the file tree (aka move into the parent 
+folder) use 'cd ..'. '..' always represents the parent directory.
+
+Try to use the ls and cd commands right now to move around the 
+filesystem on your Pi. See what you find.
+
+	1.2.2: Essential commands
+
+Moving around isn't enough. We want to do stuff. Here are some basic 
+commands:
+
+mv: MoVe files
+	mv sourceFile destinationFolderOrName
+cp: CoPy files
+	cp sourceFile destnationFolderOrName
+
+You can accidentally overwrite stuff with these commands. Be careful!
+
+rm: ReMove (or delete) files
+	rm filename
+
+mkdir: MaKe a DIRectory
+	mkdir directoryName
+rmdir: ReMove (or delete) a DIRectory
+	rmdir directoryName
+
+The directory has to be empty to be deleted.
+
+man: get the MANual page
+	man manPageName
+
+Try to get the manual pages for the commands you just learned.
+
+python: runs the python interpreter or python programs
+	python myprogram.py
+	python
+		(simply runs the interpreter)
+
+nano: This is a text editor. You should write your programs with this. 
+	Remember to save your work when exiting.

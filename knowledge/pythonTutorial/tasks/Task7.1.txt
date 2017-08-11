@@ -1,0 +1,29 @@
+	7.1	List Comprehension
+
+Up until now, every time you wanted a list of something special (e.g. a list of
+squares, a list of cubes, etc) you had to make a loop and then append to the list.
+
+There is, however, a way to shorten this. If you can express the operation you
+want to perform on the numbers in a single expression, you can do this in a single
+line by using a technique called list comprehension.
+
+Let's say you want a list of the squares of all the numbers from 1 to 10.
+
+	squares = []
+	for i in range(1, 11):
+		squares.append(i ** 2)
+
+It takes 3 lines to do this with a standard for-in loop. List comprehension needs
+only one line.
+
+	squares = [i ** 2 for i in range(1, 11)]
+
+Delimit the list with brackets as normal, but inside the brackets put an expression
+in terms of your loop counter and then a for-in declaration.
+
+===			===
+
+Task: Obtain a list containing the square root of only the even numbers between 0
+	and 50, including 0 and 50. Your program may not exceed two lines.
+
+===			===

@@ -1,0 +1,17 @@
+	7.4 Nesting functions
+
+The point of having a function that returns a variable is that you can use it as
+one. This means you can put a function inside another function as if it were a
+variable.
+
+	myVariable = functionA(functionB())
+
+This can be used to reduce the number of lines as well as avoid creating any
+temporary variables.
+
+	def foo():
+		return [1, 2, 3]
+
+	x = foo()[1] #=> 2
+
+	userInput = int(raw_input("Enter a number: "))

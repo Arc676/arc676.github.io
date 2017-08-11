@@ -1,0 +1,51 @@
+Sometimes, things go wrong. You may have noticed that when you give your program
+bad input, it crashes and gives you these error messages. Real programs don't do
+this very often because they can catch your bad input and tell you that you made
+a mistake instead. Enter error handling.
+
+	7.6	Error Handling
+
+In Python, you use a try-except block to prevent errors from crashing your program.
+
+	try:
+		statement
+	except ErrorType:
+		statement
+
+In the try block, you do something that might 'raise' an error, such as converting
+a string to an integer (this will fail if the string doesn't actually contain an
+integer). You then specify the type of error that might be raised, such as a
+ValueError, which is raised when you try to convert a non-numerical string to
+a number. In the except block, you explain the error.
+
+	try:
+		number = int(raw_input("Enter a number: "))
+	except ValueError:
+		print "You did not enter a number"
+
+===			===
+
+Task: Write a program that does the following things, but it may not crash on ANY
+	input.
+	1) Ask the user for a number, then print the square root of that number
+	2) Ask the user for a string, and 2 numbers, then print the part of that
+		string delimited by those indices
+	3) Ask the user for a series of integers and an index, then print the nth
+		number entered, where n is the given index
+
+===			===
+
+You can also raise your own exceptions with the 'raise' keyword.
+
+	if IFeelLikeIt:
+		raise ValueError
+
+In cases where errors can occur, this can be used to print the same error message
+without that error being raised.
+
+	try:
+		num = int(raw_input("Enter an integer between 0 and 10: "))
+		if num < 0 or num > 10:
+			raise ValueError
+	except ValueError:
+		print "That was not an integer between 0 and 10"
