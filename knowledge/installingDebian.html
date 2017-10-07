@@ -1,0 +1,55 @@
+<html>
+	<meta http-equiv="content-type" content="text/html; charset=UTF-8" />
+	<title>Installing Debian-based OSs on Macs</title>
+	<head>
+		<h1>How to install a Debian-based OS on Mac</h1>
+		<link rel="stylesheet" href="/mainstyles.css">
+		<script type="text/javascript" src="/js/jquery.js"></script>
+		<script type="text/javascript">
+			$(document).ready(function(){
+			    $('#navbar').load('/navbar.html');
+			});
+		</script>
+	</head>
+	<body>
+		<div id="navbar"></div>
+		<p>
+			<a href="placeholderWikipediaURL">Debian</a> is a <a href="placeholderWikipedia">Linux-based operating system</a>. It uses the Linux kernel and comes with various programs and the "apt" package manager. There are many other Linux based operating systems that are based on Debian, including, but not limited to:
+			<ul>
+				<li>Ubuntu
+				<li>Kali Linux
+				<li>ParrotSec
+			</ul>
+			If you are trying install an OS that is based on Debian, at least parts of this tutorial will help you. Obviously there are many other tutorials on the internet; the purpose of this one is to give a general explanation of some of the tools involved in installing an OS, point out some key points and mistakes that can be made (and how to avoid them), and give tips specific to installing on Mac. Hopefully, by the end of this tutorial, you will know a bit more about how operating systems work and how to install them without guidance. If you've already installed Linux multiple times without any issues in the past, you probably don't need to read this.
+		</p>
+		<p>
+			<b>DISCLAIMER</b>: This is a guide and should indicate where data is in danger of being deleted, but nothing is perfect and mistakes can be made. I will try to ensure that the information is accurate, but you should always double check everything, make backups of your data, and READ THE ONSCREEN INSTRUCTIONS. I will not be responsible for any loss of data or anything else you accidentally or deliberately destroy while following this tutorial.
+		</p>
+		<h3>How Installing the OS Works<h3>
+		<p>
+			So how does installing an operating system work? First, you need an installer. This generally comes as an ISO file. It contains everything necessary to install the OS. You need to be able to boot from this installer so it can do its job. The easiest way to do this is to install the installer (that's not a typo) onto an external device. <b>This is not the same as installing the OS<b>. Then, you boot your computer into the installer rather than your existing OS and follow the onscreen instructions to install the OS to a target medium. If you want speed, you should install directly to your internal storage device. If you don't want to mess with the partition map of your storage device, you can also install the OS on an external device, such as a flash drive. Note that this will make the OS slower, as the connection to your internal storage (probably SATA but can be different) is almost certainly faster than USB (or whatever other kind of storage device you use). Then, once the OS is installed, you can erase the installer and boot into your new OS. If you are using a PC and want to install to internal storage, make sure you know what partitions are on your internal storage device.
+		</p>
+		<h3>Things You Will Need<h3>
+		<ol type="1">
+			<li>An installer for your OS
+			<li>A device to create the install media. A flash drive works best for this. It should be at least as big as the image file for the installer.
+			<li>A target medium e.g. a partition on your hard drive or an external storage device. Check the wiki for your OS for minimum requirements regarding size. Things will be simpler later if this device is from a different manufacturer than the other device.
+			<li>Backup software or an existing, up-to-date backup of your data
+		</ol>
+		<h3>Creating the Install Media</h3>
+		<ol type="1">
+			<li>Make a backup of all your data. Hopefully nothing goes wrong, but it's better to be safe than sorry. Many apps can do this automatically for you. My backup script, part of <a href="/projects/projects.html#arcutillib">the Arc Utilities Library</a>, uses the "rsync" utility. If you'd rather not use the command line, just search for backup programs for your platform. Alternatively, just copy your data to an external medium. If you're on a Mac, I personally recommend avoiding Time Machine as a long term backup utility due to reliability issues. If you only intend to use it once, that's fine. The point is to have a copy of your data if it is lost. Again, I'm not responsible for any damage caused by following this tutorial without taking the proper precautions.
+			<li>Put the installer on a flash drive. This can be done using various third party software or the "dd" command if you're comfortable with a command line. Be careful not to destroy the wrong disk using the "dd" command. You should probably look up the specific details for the OS you are installing, but it generally looks like "dd if=/path/to/installerImage.iso of=/path/to/device bs=1M conv=sync". The block size (bs flag) can be different for the OS you wish to install and the "conv" flag may not be available on your platform (it is on Mac).
+		</ol>
+		<h3>Installing the OS</h3>
+		<ol type="1">
+			<li>Shut down your machine, plug in the target install medium (if required) and also the flash drive onto which you put the installer.
+			<li>Boot your machine. On Mac, when you hear the chime (or just as soon as you press the power button; if you have flash storage you need to be fast) hold the option key. On a PC, you will probably see some text that says "Press (some button) to interrupt normal startup" or something similar. Press that button.
+			<li>On Mac, you should see all bootable media including Macintosh HD (or whatever your internal storage is called) and the installer with a flash drive icon. Use the arrow keys or the mouse to select the installer and click the up arrow or press enter to boot into the installer. On a PC, there should be an option to select an alternative boot medium. Where this is will depend on the manufacturer. Select it and boot into the install media.
+			<li>Follow the on screen instructions. Most of this should be fairly simple.
+			<li>When you get to the partitioning step, you will see "guided" and some other options (this should be the same for most, if not all, Debian-based systems). Select the one that says "something else" to do everything manually (read the descriptions carefully to ensure that the one you select doesn't do anything automatically).
+			<li>Select the medium onto which you want to install your OS. Be VERY vigilant here. Your internal storage is probably called "sda" but this may change depending on the OS you are installing. The number following the device is the partition number. On Mac, you must not touch sda0 or sda1 because these are the EFI and your Mac data, respectively. On a PC, the partitioning will depend on your machine's setup. If you have any other partitions, be sure not to mess up anything you want to keep (this bit really depends on your setup; if you have other partitions, you should be familiar with what is in your internal storage). If you are installing onto an external device, you probably want "sdb" or "sdc". Check the descriptions to see what each device is. The description usually includes the manufacturer.
+			<li>In the screen after you select the target medium, you will see a list of partitions that will be modified. This list MUST NOT include any partitions that hold important data (it might include sda0 because it has to write the boot loader; check the description).
+		</ol>
+	</body>
+</html>
