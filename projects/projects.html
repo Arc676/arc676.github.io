@@ -16,114 +16,18 @@
 		<p>
 			These are my projects, the repositories for which you can find here on GitHub. All the repositories should include a license or some statement in the README regarding what license is being used for the project. Usually it's GPLv3, but some content such as project assets might be available under Creative Commons licenses. The text for this website is available under CC-BY-NC-SA 4.0. See <a href="/legal.html">this page</a> for more info. Note that <b>not all my repositories</b> are listed here.
 		</p>
-		<a name="PlateCodes"><h2>PlateCodes</h2></a>
-		<a href="https://github.com/Arc676/PlateCodes">Repository (Mac/iOS)</a><br>
-		<a href="https://github.com/Arc676/PlateCodes-Linux">Repository (Linux)</a>
-		<p>
-			PlateCodes is an application that allows you to determine where an automobile obtained its license plate based on information on that plate. For example, all license plates for vehicles belonging to the embassy of Switzerland in Beijing, China begin with the number 213. If you see an Italian car with PI in the lower right hand corner, it means the license plate was issued by Pisa. See the README file for a list of supported search spaces.
-		</p>
-		<p>
-			PlateCodes is available for Mac and iOS. It's also available as a snap for Linux.
-		</p>
-		<hr>
-		<a name="Find the invisible"><h2>Find the Invisible *</h2></a>
-		<a href="https://github.com/Arc676/Find-The-Invisible-">Repository</a>
-		<p>
-			Find the Invisible * is based on a web game called Find the Invisible Cow. The project was created on request by a friend and offers users the ability to pick custom assets to use in the game. See the README file for more info on the gameplay.
-		</p>
-		<p>
-			Find the Invisible * is available for Mac. An iOS version might be created in the future, but only if a suitable touchscreen analog is found for the game mechanics.
-		</p>
-		<hr>
-		<a name="Tanks"><h2>Tanks</h2></a>
-		<a href="https://github.com/Arc676/Tanks">Repository</a>
-		<p>
-			Tanks is a strategy game based on an online Flash game of the same name. It can be easily found online simply by searching 'tanks flash game' or similar queries. The game has some bugs regarding shields and is no longer on the homepage of the original creators. My goal is to create my own version of this game and offer new mechanics and features not available in the original game. See the README file for more details.
-		</p>
-		<p>
-			Tanks is available for Mac, but I'm writing the code to be as modular as possible. Porting the project to iOS should be easy, so that might be available later.
-		</p>
-		<hr>
-		<a name="SockTalk"><h2>SockTalk</h2></a>
-		<a href="https://github.com/Arc676/SockTalk">Repository</a>
-		<p>
-			SockTalk is a command line socket-based IM program. One machine runs a server program and other users connect via the client program. Each user can specify a username and the chat can be hosted on any open port. Commands are used to disconnect, display connected users, etc. More details are available in the README and also by running /help while connected in either program.
-		</p>
-		<p>
-			The SockTalk protocol is the same as the protocol used in the <a href="https://github.com/Arc676/Java-Chat">Java project</a> on which SockTalk is based. SockTalk is written in C++ and should be compatible with any desktop platform. The program has been run on Ubuntu 16.04 LTS and Mac. If it turns out it uses a platform specific library or feature, please let me know by <a href="https://github.com/Arc676/SockTalk/issues/new">opening an issue</a>.
-		</p>
-		<hr>
-		<a name="arcutillib"><h2>Arc Utilities Library</h2></a>
-		<a href="https://github.com/Arc676/Arc-Utilities-Library">Repository</a>
-		<p>
-			The Arc Utilities Library is a set of BASh, Perl, and AppleScript scripts designed to automate certain tasks. See the beginning of each individual script for a <a href="https://en.wikipedia.org/wiki/Shebang_%28Unix%29">shebang</a>, information about script type and platform compatibility, and legal text.
-		</p>
-		<p>
-			BASh and Perl scripts can, obviously, be run on any machine that has BASh/Perl. AppleScript is only available on Mac (unless there's a Windows interpreter I'm unaware of).
-		</p>
-		<hr>
-		<a name="mancala"><h2>Mancala</h2></a>
-		<a href="https://github.com/Arc676/Mancala">Repository</a>
-		<p>
-			Mancala is a strategy game in which pebbles are moved around a board. Full gameplay rules can be found in the man page. This is a command line version of that game for low performance computers or if you want to play while in a Terminal without starting X. The computer player prioritizes these moves, in this order:
-			<ul>
-				<li>Captures</li>
-				<li>Extra turns</li>
-				<li>Preventing the opponent from capturing pebbles</li>
-				<li>Preventing the opponent from taking extra turns</li>
-				<li>Picking the pocket farthest from the goal</li>
-			</ul>
-			This does not appear to be an optimal algorithm for winning at Mancala. If you can do better, feel free to fork the repository and work on it yourself. Make a pull request and I'll merge if the algorithm works.
-		</p>
-		<p>
-			Mancala is written in C and should be compilable on any platform.
-		</p>
-		<hr>
-		<a name="CrystalBall"><h2>Crystal Ball</h2></a>
-		<a href="https://github.com/Arc676/Crystal-Ball">Repository (Mac/iOS)</a><br>
-		<a href="https://github.com/Arc676/Crystal-Ball-Linux">Repository (Linux)</a>
-		<p>
-			Crystal Ball randomly answers your yes/no questions in any of five languages: English, Italian, Simplified Chinese, German, and French. If you're ever unsure about something or want to pick from several options, Crystal Ball can help. <b>DISCLAIMER:</b> Please don't use Crystal Ball for any serious decision making. Answers are chosen pseudorandomly and should definitely not be used for important choices. Please consult a human being, preferably one with expertise in the relevant field, if you need to make such a decision and are unsure.
-		</p>
-		<p>
-			Crystal Ball is available for iOS, Mac, and Linux (as a snap package). The Mac and Linux versions are still under development. Check the repositories regularly if you're interested.
-		</p>
-		<hr>
-		<a name="Toohak"><h2>Project Toohak</h2></a>
-		<a href="https://github.com/Arc676/Toohak">Repository</a>
-		<p>
-			<a href="kahoot.it">Kahoot!</a> is an online quiz game platform. One user starts a quiz (hosted on the Kahoot's servers) and other players connect to the game via a web or mobile app. Questions and answers appear on the host user's computer and the players answer the multiple choice questions by clicking the appropriate answer on their devices. Project Toohak (Kahoot backwards) is a free, open source, socket- and LAN-based version of this game with the addition of some extra features. These can be found in the README. Its purpose is to serve as a suitable replacement for Kahoot! when network latency makes the game unfair to players with a bad connection by being playable on the local network.
-		</p>
-		<p>
-			Toohak is written in Java, so it can be run on any Java-compatible platform.
-		</p>
-		<hr>
-		<a name="Arc Music Player"><h2>Arc Music Player</h2></a>
-		<a href="https://github.com/Arc676/Arc-Music-Player">Repository (Mac)</a><br>
-		<a href="https://github.com/Arc676/Arc-Music-Player-Linux">Repository (Linux)</a>
-		<p>
-			The Arc Music Player is a lightweight, simple music player. It doesn't create libraries or sort your music and only has the absolute basics of a music player. This makes it small and easy to use while still providing most of the functionality required of a music player. See the README file for more details on available features. This app is useful when you have all your music in one place and don't want to copy it so that more than one application can access it. For example, if you have an iTunes library that you want to access on a separate partition (e.g. one running a different version of Mac), you can use the Arc Music Player instead of having two separate iTunes libraries for each version of Mac.
-		</p>
-		<p>
-			Arc Music Player is available for Mac and Linux. As of release 1.0, the two do not have compatible save formats. This may change in future releases. The Linux version is available as a snap package.
-		</p>
-		<hr>
-		<a name="PongRevived"><h2>Pong: Revived</h2></a>
-		<a href="https://github.com/Arc676/Pong-Revived">Repository</a>
-		<p>
-			Pong: Revived is my remake of the classic 1972 Atari arcade game Pong. It's available for Mac but I'm working on an iOS version. It has many features such as colors, customizable mechanics, cheat codes, and more. See the README for more info. In case you somehow haven't heard of Pong, it's a game where you have two paddles controlled by two players and a ball. Move your paddle to hit the ball. If you miss, your opponent scores a point. First to 10 wins. The mechanics are a lot like tennis, except the net doesn't actually do anything.
-		</p>
-		<p>
-			Pong is available for Mac. iOS version coming... at some point.
-		</p>
-		<hr>
-		<a name="OrxVice"><h2>Pixel Shootout</h2></a>
-		<a href="https://github.com/Arc676/Orx-Vice">Repository</a>
-		<p>
-			Pixel Shootout is my first project using the open source game engine, <a href="http://orx-project.com">Orx</a>. It's a top-down shooter in which enemies spawn randomly and they have to be shot for points. (Still in early development).
-		</p>
-		<p>
-			The repository contains an Xcode project and I will likely only include Mac binaries in the releases, but Orx can be compiled on any platform so this project can too. You will have to download a compiled version of Orx for your platform and link it when compiling.
-		</p>
+		<ul>
+			<li><a href="/projects/platecodes.html">PlateCodes</a>
+			<li><a href="/projects/findtheinvisible.html">Find the Invisible *</a>
+			<li><a href="/projects/tanks.html">Tanks</a>
+			<li><a href="/projects/socktalk.html">SockTalk</a>
+			<li><a href="/projects/arcutillib.html">Arc Utitlies Library</a>
+			<li><a href="/projects/mancala.html">Mancala</a>
+			<li><a href="/projects/crystalball.html">Crystal Ball</a>
+			<li><a href="/projects/toohak.html">Project Toohak</a>
+			<li><a href="/projects/arcmusicplayer.html">Arc Music Player</a>
+			<li><a href="/projects/pong.html">Pong: Revived</a>
+			<li><a href="/projects/pixel.html">Pixel Shootout</a>
+		</ul>
 	</body>
 </html>
