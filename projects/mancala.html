@@ -1,0 +1,33 @@
+<html>
+	<meta http-equiv="content-type" content="text/html; charset=UTF-8" />
+	<title>Projects</title>
+	<head>
+		<h1>Mancala</h1>
+		<a href="/projects/projects.html">Back to all projects</a>
+		<link rel="stylesheet" href="/mainstyles.css">
+		<script type="text/javascript" src="/js/jquery.js"></script>
+		<script type="text/javascript">
+			$(document).ready(function(){
+			    $('#navbar').load('/navbar.html');
+			});
+		</script>
+	</head>
+	<body>
+		<div id="navbar"></div>
+		<a href="https://github.com/Arc676/Mancala">Repository</a>
+		<p>
+			Mancala is a strategy game in which pebbles are moved around a board. Full gameplay rules can be found in the man page. This is a command line version of that game for low performance computers or if you want to play while in a Terminal without starting X. The computer player prioritizes these moves, in this order:
+			<ul>
+				<li>Captures</li>
+				<li>Extra turns</li>
+				<li>Preventing the opponent from capturing pebbles</li>
+				<li>Preventing the opponent from taking extra turns</li>
+				<li>Picking the pocket farthest from the goal</li>
+			</ul>
+			This does not appear to be an optimal algorithm for winning at Mancala. If you can do better, feel free to fork the repository and work on it yourself. Make a pull request and I'll merge if the algorithm works.
+		</p>
+		<p>
+			Mancala is written in C and should be compilable on any platform.
+		</p>
+	</body>
+</html>
