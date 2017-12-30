@@ -14,12 +14,22 @@
 	</head>
 	<body>
 		<div id="navbar"></div>
-		<a href="https://github.com/Arc676/Pathfinder">Repository</a>
+		<a href="https://github.com/Arc676/Pathfinder">Repository (Library)</a>
+		<a href="https://github.com/Arc676/GraphBuilder">Repository (Mac Cocoa frontend)</a>
 		<p>
-			Project Pathfinder involves the creation of a C++ library for graph related functions such as creating, modifying, storing, and loading weighted graphs as well as applying path-finding algorithms to determine the shortest route between any two nodes of a graph. Graphs are stored in plain text. The library currently only has a Dijkstra implementation as its sole path-finding function, but more may be added in the future.
+			Project Pathfinder involves the creation of a C++ library for graph related functions such as creating, modifying, storing, and loading weighted graphs as well as applying path-finding algorithms to determine the shortest route between any two nodes of a graph. Graphs are stored in plain text; graph data can be written to and read from string variables.
 		</p>
 		<p>
-			The graph library can be compiled on any platform. If there are any troubles compiling on any platform, please let me know.
+			Path-finding algorithms currently implemented (more to be added in the future):
+			<ul>
+				<li>Dijkstra's Algorithm
+			</ul>
+		</p>
+		<p>
+			GraphBuilder is a Cocoa frontend to the Pathfinder library for Mac. It's written in Objective-C++ to allow compatibility with the C++ library. It allows users to visually create graphs and find optimal paths between nodes.
+		</p>
+		<p>
+			The Pathfinder library can be compiled on any platform. If there are any troubles compiling on any platform, please let me know. GraphBuilder is a Mac-only frontend.
 		</p>
 	</body>
 </html>
