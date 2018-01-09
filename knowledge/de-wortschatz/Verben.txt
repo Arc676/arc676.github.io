@@ -1,0 +1,587 @@
+abbrechen//to cancel
+abfahren//to drive away
+abholen//to pick up (a person)
+abmelden//to log out/to check out of inventory
+abnehmen//to decrease/to lose weight
+abreisen//to depart from a temporary stay
+abreißen//to tear down/to demolish
+abschließen//to close; also to lock
+abstellen//to turn off
+abstreiten//to deny
+abwerfen//to drop/to discard (a card)
+akzeptieren//to accept
+anbellen//to bark at
+anbieten//to offer
+anbinden//to tie together
+ändern//to change
+anfangen//to begin
+anfühlen//to feel like (something); to resemble in touch
+angreifen//to attack
+angucken//to look at
+anhalten//to stop
+anhören//to hear out
+ankleben//to glue together
+ankommen//to arrive
+ankreuzen//to tick (a box)
+anlügen//to lie (to someone) (transitive)
+anmachen//to turn on
+anmelden//to check into inventory
+annähen//to sew together
+annehmen//to take; to accept
+anprobieren//to try on (clothes)
+anrufen//to call via telephone
+anschauen//to visit
+anschließen//to connect
+ansehen//to watch
+anstechen//to puncture
+anstellen//to turn on/to hire
+anwenden//to apply; to employ (e.g. to a purpose)
+ärgern//to anger; to make someone angry
+atmen//to breathe
+auf etwas sich verlassen//to rely on something
+auf jemanden ankommen//to depend on someone
+auf jemanden warten//to wait for someone
+aufbleiben//to stay up; to not go to bed
+aufbrauchen//to use up; to consume
+auferstehen//to be revived
+auffallen +Dat//to notice**
+auffallen//to attract attention
+auffangen//to catch (a falling object) (also to regain control over)
+aufgehen//to rise
+aufhängen//to hang up
+aufhören//to cease
+aufmachen//to open
+aufpassen//to pay attention
+aufräumen//to clean up
+aufregen//to excite/to upset
+aufschreiben//to write down
+aufstehen//to get up
+auftauchen//to appear; to emerge; to turn up
+aufwachen//to awake
+ausatmen//to exhale; to breathe out
+ausbauen//to unfit; to remove
+ausdenken//to think up; to conceive; to devise
+ausführen//to export
+ausgeben//to spend
+aushalten//to withstand; to endure
+auskugeln//to dislocate
+auslösen//to trigger; to let off
+ausmachen//to turn off
+auspacken//to unpack
+ausrutschen//to slip
+aussagen//to testify; to declare
+ausschlafen//to sleep enough
+ausschneiden//to cut out
+ausschütten//to pour out
+aussehen//to appear (describing looks)
+ausspionieren//to spy
+aussteigen//to exit
+aussterben//to become extinct
+austrocknen//to dry out
+auswandern//to emigrate
+ausziehen//to move out
+backen//to bake
+baden//to bathe
+bauen//to build
+beantragen//to request; to apply for
+beantworten//to reply
+bedeuten//to mean; to represent
+bedienen//to serve
+beenden//to finish
+befreien//to free; to let go
+beginnen//to begin
+begleichen//to settle (e.g. a debt)
+begleiten//to accompany
+behalten//to keep
+behaupten//to claim; to assert
+beitreten//to join
+bekommen//to receive
+belohnen//to reward
+belügen//to lie (to someone) (transitive)
+bemerken//to notice
+beneiden//to envy
+beraten//to advise
+bereuen//to regret; to repent
+berichten//to report
+beschließen//to decide
+beschreiben//to describe
+beschützen//to protect/to take care of
+besichtigen//to visit
+besiegen//to defeat (transitive)
+besprechen//to discuss
+bespritzen//to splash
+bestehen//to pass (a test)
+bestehlen//to rob
+besteigen//to climb
+bestellen//to order
+bestimmen//to determine; to designate
+besuchen//to visit
+betonen//to emphasize
+betreuen//to care for
+betrüben//to sadden; to grieve; to be upset
+betrügen//to betray; to cheat (someone)
+beurteilen//to judge
+bewegen//to move (e.g. oneself, one's legs, etc)
+bewilligen//to approve
+bewundern//to admire
+bezahlen//to pay
+bezeichnen//to refer to as; to denote; to call
+bezweifeln//to doubt; to question
+bieten//to bid (auction)
+blamieren//to disgrace; to embarrass
+bleiben//to stay
+blühen//to bloom
+bohren//to perforate
+braten//to bake
+brauen//to brew
+brechen//to break (also figurative)
+brennen//to burn (intransitive)
+bringen//to bring
+brüllen//to roar/to shout
+buchen//to book
+buchstabieren//to spell
+dabeihaben//to have at one's side
+danken//to thank
+dauern//to last (a period of time)
+demütigen//to humiliate
+deuten//to interpret
+die Zähne putzen//to brush one's teeth
+diskutieren//to discuss
+drängen//to push/to demand
+drehen//to turn
+drohen//to threaten
+durchdrehen//to turn; also to snap/go crazy
+durchgehen//to be allowed; to count
+duschen//to shower
+einatmen//to inhale; to breathe in
+einbauen//to fit; to build in
+einen Verband machen//to wrap with gauze
+einfallen +Dat//to remember**
+einfinden//to arrive
+einfügen//to add; to insert
+einführen//to import
+einkaufen//to buy
+einladen//to invite
+einnässen//to urinate involuntarily
+einpacken//to pack (in addition)
+einreisen//to enter (a country)
+einschlafen//to fall asleep
+einschlagen//to hit
+einschließen//to close in (e.g. w/ a fence)
+einschüchtern//to intimidate
+einsteigen//to enter
+einstellen//to adjust/to hire
+eintreten//to enter
+einwandern//to immigrate
+einziehen//to move in
+Email abrufen//to check email
+empfehlen//to recommend
+entdecken//to discover
+entfernen//to remove/to expel/to take out
+entgegentreten//to confront
+entgehen//to miss; to not notice
+entgleisen//to become derailed
+entkommen//to escape; to flee
+entnehmen//to extract; to take
+entriegeln//to unlock
+entscheiden//to decide
+entschließen//to decide; to make up one's mind
+entschlüsseln//to decrypt; to decode
+entschuldigen//to excuse
+entspannen//to relax
+entstehen//to arise; to come from; to be developed; to originate
+enttäuschen//to disappoint
+entwickeln//to develop
+entzücken//to delight
+erbauen//to build
+erben//to inherit
+erbrechen//to vomit
+erfahren//to learn; to discover; to come to know
+erfinden//to invent
+erfüllen//to fulfill
+ergänzen//to complete
+erhängen//to hang (a person)
+erkältet sein//to have a cold
+erkämpfen//to gain victory
+erkennen//to recognize
+erklären//to explain
+erlauben//to allow
+erleben//to happen
+erledigen//to complete
+ernennen//to appoint; to make someone something
+ernst nehmen//to take seriously
+erpressen//to blackmail
+erreichen//to reach
+ersetzen//to replace
+ersteigern//to buy from an auction
+erstellen//to build
+ersticken//to suffocate; to choke
+erwidern//to reply; to answer
+erzählen//to tell a story
+erziehen//to raise; to educate
+es schaffen//to make it; to succeed
+exportieren//to export
+fallen//to fall
+fangen//to catch; to trap (e.g. a thief)
+fassen//to catch; to apprehend
+fehlen//to be missing
+feiern//to celebrate
+fernsehen//to watch TV
+festnehmen//to arrest
+Feuer haben//to have a lighter
+Filme aufnehmen//to take video
+finden//to find
+fließen//to flow
+flirten//to flirt
+flüchten//to escape; to flee
+folgen//to follow
+fordern//to demand
+fortfahren//to drive away
+fortgehen//to leave; to go away
+fortsetzen//to continue
+fotografieren//to take pictures
+fressen//to feed
+frieren//to freeze
+fügen//to put
+fühlen//to feel
+füllen//to fill
+füttern//to feed
+geboren sein//to be born
+Geburtstag haben//to have one's birthday
+Geld abheben//to withdraw money
+Geld einzahlen//to deposit money
+gelten//to apply to; to be valid for
+genesen//to recover; to heal
+genießen//to enjoy
+Geschäft betreiben//to do business
+geschehen//to happen
+gestehen//to confess
+gießen//to water
+glauben//to think
+grillen//to grill
+gründen//to found
+gucken//to watch
+hängen//to hang
+heben//to lift
+heilen//to heal
+heimkommen//to come home (one word)
+heiraten//to marry
+herstellen//to produce
+hervorragen//to stand out
+hinfallen//to fall over
+hinunterfallen//to fall down
+hinweisen//to point out
+holen//to take
+hören//to listen to; to hear
+ignorieren//to ignore
+impfen//to vaccinate
+importieren//to import
+informieren//to inform
+jemandem auffallen//for someone to notice
+jemandem vertrauen//to trust someone
+jemanden anschreien//to shout at someone
+kalt bezahlen//to pay not including heating
+kämpfen//to fight
+kennen//to know (a person)
+kennenlernen//to get acquainted with
+kippen//to tilt
+kitzeln//to tickle
+klauen//to steal (colloquial)
+klemmen//to jam; to be stuck
+klettern//to climb
+klingeln//to ring
+klopfen//to knock
+kochen//to cook (esp. to boil)
+kommentieren//to annotate/to provide commentary
+kommunizieren//to communicate
+kompensieren//to compensate
+kontrollieren//to control
+korrigieren//to correct
+kosten//to cost
+kritisieren//to criticize
+kühlen//to cool
+kündigen//to quit one's job
+kürzen//to shorten
+lächeln//to smile
+lachen//to laugh
+lackieren//to paint
+lahmlegen//to stop; to shut down
+lehren//to teach
+Leid tun//to cause sorrow
+leihen//to lend
+leise sprechen//to speak quietly
+liefern//to send
+liegen//to lie somewhere
+linsen//to peek
+locken//to lure
+lösen//to solve
+losfahren//to drive away
+loslassen//to let go
+lügen//to lie; to tell a lie
+Lust haben//to have the desire to
+mähen//to mow (a lawn)
+malen//to draw
+markieren//to mark
+massieren//to massage
+meinen//to think
+merken//to notice
+messen//to measure weight
+mischen//to mix
+mitbringen//to bring along
+mitkommen//to come along with
+mitmachen//to participate
+mitnehmen//to take with
+mitspielen//to participate (in a game)
+mobben//to bully
+montieren//to install
+nach gehen//to be slow (a clock)
+nachdenken//to think
+nacherzählen//to summarize
+nachkochen//to cook following a recipe
+nachladen//to reload (a weapon)
+nachmachen//to copy; to imitate/to forge
+nachschlagen//to look up; to research
+nachvollziehen//to comprehend; to understand
+nehmen//to take
+neigen//to tend/to bow
+nennen//to call; to name
+notieren//to note down
+Notizen machen//to note down
+öffnen//to open
+operieren//to operate (med)
+ordnen//to put in order
+organisieren//to organize
+packen//to pack
+parken//to park (a car)
+passen//to fit
+passieren//to happen
+pellen//to peel
+pflegen//to care for
+planen//to plan
+plaudern//to chat/to let on; to give away a secret (colloquial)
+probieren//to try
+promovieren//to graduate and get a doctorate
+protzen//to show off; to flaunt
+prüfen//to test (academic)
+pusten//to blow (w/ the mouth)
+quälen//to torture
+rasen//to race; to travel fast (also to crash)
+raten//to guess
+rauben//to rob
+rechnen//to calculate
+Recht haben//to be correct
+recyceln//to recycle
+regieren//to rule (over a kingdom)
+regnen//to rain
+rehabilitieren//to rehabilitate
+reichen//to be enough
+reinigen//to clean
+reklamieren//to send back
+rekonstruieren//to reconstruct
+reparieren//to repair
+retten//to save (e.g. a person); to salvage
+riechen//to smell
+rufen//to call out
+rütteln//to shake
+sabotieren//to sabotage
+sammeln//to collect
+säubern//to clean
+schätzen//to evaluate
+schauen//to watch
+schenken//to give as a gift
+schicken//to send
+schimpfen//to grumble; to rant; to complain
+schließen//to close
+schmecken//to taste
+schmelzen//to melt
+schmieren//to bribe
+schmuggeln//to smuggle
+schnappen//to catch; to grab
+schneiden//to cut
+schreien//to scream
+schulden//to owe
+schützen//to protect
+schweben//to hover; to float
+schweißen//to weld
+schwitzen//to perspire
+senken//to lower
+sich anziehen//to put on clothes
+sich ausziehen//to take off clothes
+sich beeilen//to hurry up; to make haste
+sich bemühen//to put an effort (into something)
+sich bewerben//to apply for a job
+sich einrichten//to furnish one's house
+sich freuen//to take pleasure in
+sich leisten//to be able to afford
+sich schämen//to be ashamed
+sich setzen//to sit oneself down
+sich treffen//to meet
+sich übergeben//to vomit
+sich umziehen//to change clothes
+sich verabschieden//to say goodbye to someone
+sich verlieben//to fall in love
+sich verloben//to propose (marriage)
+sich wohlfühlen//to feel comfortable or healthy
+siegen//to defeat (intransitive)
+singen//to sing
+sinken//to sink; to decrease
+sitzen//to sit down
+sorgen//to cater to; to provide for (e.g. kids)
+sortieren//to sort
+sparen//to save; to reduce usage of
+speichern//to save
+spezifizieren//to specify
+Sport treiben//to do sports
+sprengen//to explode; to blow
+spucken//to spit
+spülen//to wash
+stammen//to come from
+stärken//to make stronger
+stattfinden//to take place
+stehen//to stand
+stehlen//to steal
+steigen//to rise
+stellen//to post
+stimmen//to be correct
+stören//to disturb
+stranden//to strand; to be stranded
+streicheln//to stroke
+streiken//to go on strike; to not work
+stützen//to support
+surfen//to surf
+tanken//to refuel
+tauen//to thaw
+täuschen//to deceive
+tauschen//to exchange
+teilnehmen//to participate
+telefonieren//to call via telephone
+tot stellen//to play dead
+töten//to kill
+trauern//to mourn
+träumen//to dream
+treffen//to meet
+trennen//to separate
+tropfen//to drip
+trösten//to comfort
+üben//to practice
+überfahren//to run over
+überlegen//to think
+übernachten//to stay overnight
+überraschen//to surprise
+überreden//to persuade
+überschätzen//to overestimate
+übersehen//to overlook/to look over (something)/to assess
+übertreffen//to surpass; to exceed
+überzeugen//to persuade; to convince
+übrig haben//to spare; to have left over
+umarmen//to embrace; to hug
+umziehen//to move house
+unter Stress stehen//to be under stress
+unterbrechen//to interrupt
+unterschätzen//to underestimate
+unterschreiben//to sign (e.g. a contract)
+unterstreichen//to underline
+unterstützen//to support
+untersuchen//to check (e.g. at security)
+urinieren//to urinate
+verabredet sein//to have agreed
+verabreichen//to administer; to give (a medicine or a shot)
+verändern//to change
+verbieten//to forbid
+verbrennen//to burn (transitive)
+verdienen//to earn
+verdonnern//to condemn; to sentence
+verfälschen//to tamper with; to falsify
+vergehen//to pass by
+vergessen//to forget
+vergleichen//to compare
+verhaften//to arrest
+verhören//to interrogate
+verhungern//to starve
+verklagen//to sue (legal)
+verkleinern//to make smaller
+verkünden//to announce
+verlangen//to request
+verlängern//to lengthen
+verlassen//to leave; to exit
+verleihen//to borrow
+verletzen//to injure
+verlieren//to lose
+vermasseln//to mess up
+vermeiden//to avoid
+veröffentlichen//to publish
+verpassen//to miss; to be late for
+verprügeln//to beat up
+verreisen//to leave on a trip
+verriegeln//to lock
+verschaffen//to provide; to get
+verscheuchen//to scare away
+verschieben//to postpone; to delay
+verschlucken//to swallow
+verschlüsseln//to encrypt; to encode
+verschwenden//to waste
+verschwinden//to leave/to disappear (colloquial)
+versichern//to assure
+versichert sein//to be insured
+versorgen//to supply/to care for
+versprechen//to promise
+verstecken//to hide
+vertrauen//to trust
+verursachen//to cause
+vervollständigen//to complete
+verwandeln//to transform
+verwirren//to confuse
+verzeichnen//to document
+verzichten//to renounce; to give up
+von jemandem abhängen//to depend on someone
+vor gehen//to be fast (a clock)
+vorausahnen//to anticipate
+vorbeikommen//to come by; to pass (something on the way to your destination)
+vorbereiten//to prepare
+vorhaben//to have plans
+vorhalten//to reproach
+vorkochen//to cook in advance
+vormachen//to demonstrate
+vorschlagen//to recommend
+vorziehen//to prefer
+wachsen//to grow
+wählen//to choose
+wärmen//to warm
+warnen//to warn
+waschen//to wash
+wechseln//to exchange
+wecken//to wake
+wedeln//to wave/to wag
+wegfahren//to drive away
+weggehen//to leave; to go away
+wegtreten//to leave (after being dismissed)
+wegwerfen//to throw away (as trash)
+wehen//to blow (the wind)
+wehtun//to hurt
+werben//to advertise
+werden//to become
+wetten//to bet (on something)
+wiegen//to weigh (X kg); to weigh this much
+wirken//to appear (describing looks)
+wischen//to clean
+wissen//to know (a fact)
+wünschen//to wish
+zahlen//to pay
+zeichnen//to draw
+zeigen//to show
+Zeit verbringen//to spend time
+zerbrechen//to break (always literal; sometimes malicious)
+zerreißen//to tear up; to rip
+ziehen//to move house
+zu sein//to be turned off
+züchten//to breed
+zucken//to twitch
+zuhören//to listen to
+zumachen//to close
+zurückblicken//to look back; to reflect
+zurückgeben//to return
+zurücktreten//to step back
+zusammenfassen//to put together
+zusammenfügen//to put together
+zutreffen//to apply (e.g. a rule)
+zwingen//to force; to coerce; to compel

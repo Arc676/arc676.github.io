@@ -1,0 +1,1230 @@
+das Abenteuer, -//adventure
+das Alter//age*
+das Altersheim, -e//home for pensioners/old people
+das Amt, ä-er//office
+das Antibiotikum, Antibiotika//antibiotics
+das Arbeitsamt, ä-er//unemployment office
+das Argument, -e//argument; reasoning
+das Arztneimittel, -//medicine
+das Asyl, -e//asylum (political)
+das Auge, -n//eye
+das Ballett, -e//ballet
+das Becken, -//sink
+das Bein, -e//leg
+das Beispiel, -e//example
+das Bemühen//effort*
+das Benzin, -e//fuel
+das Besteck, -e//cutlery
+das Betriebssystem, -e//operating system
+das Bett, -en//bed
+das Betttuch, ü-er//sheets (on a bed)
+das Bier, -e//beer
+das Bild, -er//picture
+das Blatt, ä-er//sheet (of paper)
+das Blech, -e//raw materials
+das Blut//blood*
+das Boot, -e//boat
+das Brett, -er//board
+das Brot, -e//bread
+das Bücherregal, -e//bookshelf
+das Büro, -s//office
+das Camping//camp*
+das Cholesterin//cholesterol*
+das Dach, ä-er//roof
+das Deck, -s//deck (of a boat)
+das Definitpronomen, -//definite pronoun
+das Dessert, -s//dessert
+das Drama//play (drama)
+das Duschbad, ä-er//shower
+das Ehepaar, -e//married couple
+das Ei, -er//egg
+das Eis//ice (cream)*
+das Ende, -n//end
+das Erdgeschoss, -e//ground floor
+das Ereignis, -se//event
+das Ergebnis, -se//result
+das Erlebnis, -se//unforgettable experience
+das Examen, -//exam
+das Fahrrad, ä-er//bicycle
+das Faktum, Fakten//fact; truth
+das Feld, -er//field; plain
+das Fenster, -//window
+das Fensterbrett, -er//windowsill
+das Fernsehen, -//TV
+das Fernsehprogramm, -e//TV program
+das Feuer//fire*
+das Feuerzeug, -e//lighter
+das Fieber//fever*
+das Fleisch//meat*
+das Formular, -e//form
+das Forschungszentrum, Forschungszentren//research center
+das Foto, -s//photo
+das Fotomodell, -e//model (job)
+das Fotostudio, -s//photo studio
+das Frühstück//breakfast
+das Gebäude, -//building
+das Gebiet, -e//area
+das Gebirge, -//mountain range
+das Gedächtnis, -se//memory
+das Gedicht, -e//poem
+das Gefängnis, -se//prison; jail
+das Gefühl, -e//feeling
+das Gehalt, ä-er//salary; income
+das Geheimnis, -se//secret
+das Gehirn, -e//brain
+das Geld//money*
+das Gemüse//vegetables*
+das Gerät, -e//device
+das Geräusch, -e//noise
+das Gericht, -e//meal course
+das Geschäft, -e//store
+das Geschirr, -e//tableware
+das Geschlecht, -er//gender
+das Geschwister, -//sibling
+das Geschwür, -e//ulcer
+das Gesetz, -e//law
+das Gesicht, -er//face
+das Gespräch, -e//conversation
+das Getränk, -e//drink
+das Getto, -s//ghetto
+das Gewehr, -e//rifle
+das Gewicht, -e//weight
+das Gewitter, -//storm
+das Gewürz, -e//spices
+das Gift, -e//poison; toxin
+das Glas, ä-er//glass cup
+das Gleiche//same*
+das Glied, -er//limb; appendage
+das Glück, -e//luck
+das Grab, ä-er//grave
+das Gramm, -e//gram
+das Gut, ü-er//good
+das Hähnchen, -//chicken
+das Handtuch, ü-er//towel
+das Handwerk, -e//craft; trade
+das Handy, -s//cell phone
+das Hauptgericht, -e//main course
+das Haustier, -e//pet
+das Hemd, -en//shirt
+das Herz, -en//heart
+das Hindernis, -se//obstacle
+das Hochdruckgebiet, -e//high pressure area
+das Hochhaus, ä-er//tall building
+das Holz, ö-er//wood
+das Huhn, ü-er//chicken
+das Inkommen, -//income
+das Insekt, -en//insect
+das Internet//internet*
+das Interview, -s//interview
+das Jahreszeugnis, -se//report card (scholastic)
+das Kabarett, -s//play
+das Kamel, -e//camel
+das Kennzeichen, -//recognizing characteristic; mark
+das Kilowatt, -//kilowatt
+das Kino, -s//cinema
+das Klavier, -e//piano
+das Kleid, -er//dress
+das Knie, -//knee
+das Kochfeld, -er//hob
+das Koffein//caffeine*
+das Koma, -s/-ta//coma
+das Konto, Konten//account
+das Konzert, -e//concert
+das Kuriosum, Kuriosa//curiosity; small fact
+das Latein//Latin*
+das Leben, -//life
+das Lebensmittel, -//food
+das Leder, -//leather
+das Lernspiel, -e//educational game
+das Lexikon, Lexika//encyclopedia
+das Licht, -er//light
+das Lied, -er//song
+das Loch, ö-er//hole
+das Lotto//lottery*
+das Magazin, -e//magazine
+das Mal, -e//instance; time
+das Manuskript, -e//manuscript
+das Märchen, -//fairy tale
+das Maß, -e//measurement
+das Medikament, -e//medication
+das Meer, -e//ocean
+das Mehl//flour*
+das Messer, -//knife
+das Militär//military*
+das Mitglied, -er//member
+das Möbel, -//furniture
+das Motto, -s//motto
+das Museum, Museen//museum
+das Muster, -//pattern
+das Nachbarland, ä-er//neighboring country
+das Naturschutzgebiet, -e//protected nature zone
+das Obst//fruit*
+das Ohr, -en//ear
+das Öl//oil*
+das Omelett, -en//omelette
+das Opfer, -//victim
+das Orchester, -//orchestra
+das Paket, -e//packet
+das Panzerglas//bulletproof glass*
+das Papier, -e//paper
+das Paradies, -e//paradise
+das Parfüm, -s//perfume
+das Parlament, -e//parliament
+das Passbild, -er//passport photo
+das Pech//bad luck*
+das Penizillin, -e//penicillin
+das Pferd, -e//horse
+das Pflaster, -//plaster
+das Pflegeheim, -e//nursing home
+das Piano, -s//piano
+das Postfach, ä-er//mailbox
+das Preisausschreiben, -//raffle
+das Problem, -e//problem
+das Pronomen, -//pronoun
+das Publikum//the public*
+das Quiz, -//quiz
+das Rad, ä-er//wheel
+das Rathaus, ä-er//town hall
+das Rätsel, -//mystery; puzzle
+das Rauchgas, -e//smoke(*?)
+das Rechnungswesen//accounting*
+das Regal, -e//shelf
+das Reihenhaus, ä-er//town house
+das Rezept, -e//recipe
+das Riesenrad, ä-er//Ferris wheel
+das Sachbuch, ü-er//non-fiction book
+das Schaf, -e//sheep
+das Schaltjahr, -e//leap year
+das Schicksal, -e//destiny
+das Schild, -er//sign
+das Schlafmittel, -//sleeping pills
+das Schmiergeld//bribe*
+das Schneemobil//snowmobile*
+das Schweinebraten, -//roast pork
+das Schwimmbad, ä-er//swimming pool
+das Sehnen//longing*
+das Sekretariat, -e//(secretary's) office
+das Sofa, -s//sofa
+das Sonderangebot, -e//discounted items
+das Sozialwesen//sociology*
+das Spiel, -e//game
+das Spülmittel, -//detergent
+das Stadion, -s//stadium
+das Stadtzentrum, Stadtzentren//city center
+das Steak, -s//steak
+das Sternzeichen, -//star/zodiac sign
+das Streichholz, ö-er//matchstick
+das Stück, -e//slice
+das Studentheim, -e//university dormitory
+das Studio, -s//studio
+das System, -e//system
+das Tal, ä-er//valley
+das Talent, -e//talent
+das Tanz, ä-e//dance
+das Taschentuch, ü-er//handkerchief
+das Telefon, -e//telephone
+das Telefonbuch, ü-er//telephone directory
+das Thema, Themen//theme
+das Tiefdruckgebiet, -e//low pressure area
+das Tier, -e//animal
+das Toastbrot, -e//toast
+das Traumhaus, ä-er//dream house
+das Treppenhaus, ä-er//stairwell
+das Trinkgeld//tip* (for a waiter)
+das Tuch, -e//cloth
+das Ufer, -//shore
+das Unglück, -e//bad luck
+das Universum, Universen//universe
+das Urteil, -e//judgement/verdict
+das Verb, -en//verb
+das Verbrechen, -//crime
+das Vergnügen, -//pleasure
+das Verhältnis, -se//relationship
+das Verständnis, -se//understanding; grasp
+das Vieh//cattle*
+das Viertel, -//quarter
+das Visum, Visa//visa
+das Volkslied, -er//folk song
+das Vollkornbrot, -e//whole grain bread
+das Vollwaschmittel, -//detergent
+das Vorurteil, -e//prejudice
+das Wahlrecht//suffrage; right to vote*
+das Waschbecken, -//sink
+das WC, -s//WC
+das Werkzeug, -e//tool
+das Wetter, -//weather
+das Wetteramt, ä-er//weather office
+das Wohnzimmer, -//living room
+das Wort, -e//word
+das Wörterverzeichnis, -se//glossary
+das Zeichen, -//sign; symbol; token
+das Zelt, -e//tent
+das Ziel, -e//target; destination
+das Zimmer, -//room
+der Abend, -e//the evening
+der Abfalleimer, -//trash can
+der Abschnitt, -e//extract; portion
+der Absender, -//email sender
+der Absturz, ü-e//crash; accident
+der Abzug, ü-e//deduction
+der Akkumulator, -en//rechargeable battery
+der Akzent, -e//accent
+der Alkohol, -e//alcohol
+der Anfänger, -//beginner
+der Angriff, -e//attack
+der Anwalt, ä-e//lawyer
+der Anzug, ü-e//suit
+der Appetit//appetite*
+der Arbeitgeber, -//employer
+der Architekt, -en//architect
+der Ärger, -//anger
+der Arm, -e//arm
+der Ärmel, -//sleeve (of a piece of clothing)
+der Artikel, -//article
+der Arzt, ä-e//doctor m
+der Atheismus//atheism*
+der Atheist, en//atheist
+der Aufenthalt, -e//sojourn; stay
+der Aufschnitt//cold cuts*
+der Aufschub, ü-e//delay
+der Aufzug, ü-e//elevator
+der Augenblick, -e//moment
+der Ausländer, -//foreigner
+der Ausweis, -e//ID; documents
+der Autor, -en//author
+der Bach, ä-e//creek; stream
+der Bäcker, -//baker
+der Bahnhof, ö-e//train station
+der Balkon, -s//balcony
+der Bär, -en//bear
+der Bart, ä-e//beard
+der Bau, -ten//structure
+der Bauch, ä-e//belly
+der Bauernhof, ö-e//farm
+der Befehl, -e//command
+der Berg, -e//mountain
+der Bergsteiger, -//mountain climber
+der Bericht, -e//report
+der Beruf, -e//profession
+der Besitzer, -//owner
+der Besuch, -e//visitor/visit
+der Betreiber//operator*
+der Betrieb, -e//company
+der Beweis, -e//proof; evidence
+der Bildschirm, -e//screen
+der Blick, -e//view (of something)
+der Blitz//lightning*
+der Blumenkohl, -//cauliflower
+der Boden, ö-//floor
+der Bote, -n//messenger/harbinger; herald
+der Breitengrad, -e//latitude
+der Brief, -e//letter
+der Bruder, ü-//brother
+der Bungalow, -s//bungalow
+der Bürger, -//citizen m
+der Bürgerkrieg, -e//civil war
+der Bürgermeister//mayor*
+der Busen, -//breast
+der Chor, ö-e//choir
+der Clown, -s//clown
+der Comic, -s//comic strip
+der Cowboy, -s//cowboy
+der Dampf//steam*
+der Dativ, -e//dative case
+der Definitartikel, -//definite article
+der Delfin, -e//dolphin
+der Dialekt, -e//dialect
+der Dialog, -e//dialog
+der Dichter, -//poet m
+der Dieb, -e//thief
+der Diktator, -en//dictator
+der Diktatur, -en//dictatorship
+der Dolmetscher, -//translator m
+der Donner//thunder*
+der Drache, -n//dragon
+der Dreck//dirtiness*
+der Druck, ü-e//pressure
+der Durchfall//diarrhea*
+der Durchschnitt, -e//average
+der Durst//thirst*
+der DVD-Player, -//DVD player
+der Eheberater, -//couples counselor
+der Eimer, -//bucket
+der Eindruck, ü-e//impression (good or bad)
+der Einkaufszettel, -//shopping list
+der Eintritt, -e//entrance
+der Einwohner, -//inhabitant
+der Eisberg, -e//iceberg
+der Eisverkäufer, -//ice cream vendor
+der Eiszapfen, -//icicle
+der Elektroherd, -e//electric stove
+der Elektroofen, ö-//electric oven
+der Empfänger, -//recipient
+der Enkel, -//grandson
+der Entwickler, -//developer
+der Erfolg, -e//success
+der Esstisch, -e//dining table
+der Experte, -n//expert
+der Export, -e//export (e.g. goods)
+der Fahrlehrer, -//driving teacher
+der Fahrplan, ä-e//travel schedule
+der Fahrstuhl, ü-e//elevator
+der Fall, ä-e//fall/case; instance
+der Familienname, -n//family name
+der Familienstand//relationship status*
+der Fehler, -//mistake
+der Feind, -e//enemy
+der Fernsehapparat, -e//TV
+der Fernseher, -//TV (colloquial)
+der Film, -e//movie
+der Filter, -//filter
+der Finger, -//finger
+der Fisch, -e//fish
+der Flug, ü-e//flight
+der Flügel, -//wing
+der Flügelmann, ä-er//wingman
+der Flughafen, ä-//airport
+der Flur, -e//corridor
+der Fluss, ü-e//river
+der Fortschritt, -e//advancement
+der Fotograf, -en//photographer
+der Freund, -e//friend m
+der Friede//peace*
+der Friseur, -e//barber m
+der Friseursalon, -s//barber shop
+der Frühling//spring (season)*
+der Führerschein, -e//driver's license
+der Fuß, ü-e//foot
+der Ganove, -n//criminal; crook m
+der Garten, ä-//garden
+der Gast, ä-e//guest
+der Geburtsort, -e//birth location
+der Gegenstand, ä-e//object
+der Gegner, -//opponent
+der Geheimagent, -en//secret agent
+der Geist, -e//ghost
+der Genuss, ü-e//enjoyment
+der Geruch, ü-e//smell
+der Geschäftsführer, -//CEO
+der Geschirrspüler, -//dishwasher
+der Geschmack, ä-e//flavor
+der Gipfel, -//peak; summit
+der Golf, -e//gulf
+der Großvater mütterlicherseits//maternal grandfather*
+der Großvater väterlicherseits//paternal grandfather*
+der Gruppenzwang//peer pressure*
+der Güterzug, ü-e//freight train
+der Hafen, ä-//sea port
+der Hals, ä-e//neck
+der Hammer, ä-//hammer
+der Händler, -//dealer
+der Handschuh, -e//glove
+der Handwerker, -//craftsman
+der Hase, -n//hare
+der Hass, -//hatred
+der Haushalt, -e//household
+der Hausmeister, -//janitor/caretaker
+der Heimwerker//handyman*
+der Helikopter, -//helicopter
+der Helm, -e//helmet
+der Herbst//fall; autumn*
+der Hersteller, -//producer
+der Hinweis, -e//hint
+der Hof, ö-e//courtyard
+der Honig, -e//honey
+der Hügel, -//hill
+der Humor//humor*
+der Hunger//hunger*
+der Husten//cough*
+der Hut, ü-e//hat
+der Igel, -//porcupine
+der Import, -e//import (e.g. goods)
+der Ingenieur, -e//engineer m
+der Jäger, -//hunter
+der Jude, -n//Jew
+der Käfer, -//beetle
+der Kammerjäger, -//exterminator
+der Kandidat, -en//candidate
+der Kanton, -e//canton
+der Kapitän, -e//captain
+der Kartoffelbrei//mashed potatoes*
+der Käse//cheese*
+der Kasten, ä-//box; case
+der Kegel, -//bowling pin
+der Keller, -//basement
+der Kellner, -//waiter
+der Kilometer, -//km
+der Kiosk, -e//kiosk
+der Klatsch//gossip*
+der Klempner, -//plumber
+der Knopf, ö-e//button
+der Koch, ö-e//cook
+der Köcher, -//quiver
+der Köder, -//bait
+der Koffer, -//baggage
+der Kollege, -n//colleague m
+der Komfort//comfort*
+der Kommentar, -e//comment
+der Kompass, -e//compass (navigation)
+der Komponist, -en//composer
+der Kompromiss, -e//compromise
+der König, -e//king
+der Konkurrenzkampf, ä-e//rivalry
+der Kopf, ö-e//head
+der Körper, -//body
+der Krach, ä-e//loud noises
+der Kranke, -n//patient
+der Kreis, -e//circle
+der Krieg, -e//war
+der Kuchen, -//cake
+der Kugelschreiber, -//pen
+der Kühlschrank, ä-e//refrigerator
+der Kunde, -n//customer
+der Künstler, -//artist
+der Kunststoff, -e//man-made materials
+der Kurs, -e//lesson
+der Kuss, ü-e//kiss
+der Lack, -e//paint
+der Landstreicher, -//vagabond; hobo
+der Landwirt, -e//farmer
+der Längengrad, -e//longitude
+der Lärm//loud noises*
+der Lautsprecher, -//loudspeaker
+der Lebenslauf, ä-e//life story
+der Lehrer, -//teacher m
+der Leiter, -//leader m
+der Löffel, -//spoon
+der Lohn, ö-e//salary; income
+der Löwe, -n//lion
+der Luftdruck, ü-e//air pressure
+der Luxus//luxury*
+der Magen, ä-//stomach
+der Maler, -//artist
+der Mangel an +Dat//the lack of**
+der Mantel, ä-//coat
+der Markt, ä-e//market
+der Masseur, -e//massager
+der Mechaniker, -//mechanic
+der Mehrwertsteuer, -n//VAT
+der Mensch, -en//person
+der Mietvertrag, ä-e//rental contract
+der Mietwagen//rental car*
+der Möbelschreiner, -//furniture maker m
+der Möbeltischler, -//furniture maker m
+der Monat, -e//month
+der Mond, -e//moon
+der Mord, -e//murder; homicide
+der Mordanschlag, ä-e//assassination
+der Morgen, -//morning
+der Motor, -en//engine (automotive)
+der Mund, ü-er//mouth
+der Mut//courage*
+der Nachbar, -n//neighbor
+der Nachmittag, -e//afternoon
+der Nachtisch, -e//dessert
+der Nachtwächter, -//night guard
+der Name, -n//name
+der Nebel//fog*
+der Neffe, -n//nephew
+der Niederschlag, ä-e//precipitation
+der Notfall, ä-e//emergency
+der Nutzer, -//user
+der Onkel, -//uncle
+der Ort, -e//location
+der Panzer, -//tank/armor (arch. chain mail)
+der Papierkorb, ö-e//paper basket
+der Paprika//paprika*
+der Parasol, -e/-s//parasol****
+der Parkplatz, ä-e//parking lot
+der Pass, ä-e//passport
+der Passagier, -e//passenger
+der Passant, -en//passer-by
+der Pensionär, -e//pensioner
+der Personalchef, -s//HR executive
+der Pfad, -e//small path
+der Pfeffer, -//pepper
+der Pfirsich, -e//peach
+der Pianist, -en//pianist
+der Pilz, -e//mushroom
+der Plural, -e//plural
+der Politiker, -//politician
+der Polizist, -en//police officer
+der Popsänger, -//singer
+der Preis, -e//price/prize
+der Preiskrieg, -e//price war
+der Psychiater, -//psychiatrist
+der Pullover, -//sweater
+der Quadratmeter, -//square meter
+der Quatsch//nonsense*
+der Rabatt, -e//discount
+der Radiergummi, -s//eraser
+der Rasen, -//lawn; turf
+der Rasierapparat, -e//razor
+der Rasierer//razor (colloquial)*
+der Rat, ä-//council/counselor m
+der Ratschlag, ä-e//advice
+der Rauch//smoke(*?)
+der Raucher, -//smoker
+der Raum, ä-e//area/room
+der Rebell, -en//rebel
+der Regen//rain*
+der Regenschirm, -e//umbrella
+der Regenwald, ä-er//rainforest
+der Reifen, -//tire
+der Reim, -e//rhyme
+der Reis//rice*
+der Reiseführer, -//travel guide
+der Rentner, -//pensioner
+der Rest, -e//rest
+der Revolver, -//revolver (gun)
+der Rhythmus, Rhythmen//rhythm
+der Richter, -//judge
+der Riese, -n//giant/thousand (currency)
+der Ring, -e//ring
+der Riss, -e//crack
+der Roboter, -//robot
+der Rock, ö-e//skirt
+der Rohstoff, -e//raw materials
+der Rücken, -//back
+der Rückgang, ä-en//decrease
+der Rücksitz, -e//back seat
+der Rücktritt, -e//resignation
+der Ruf, -e//call; shout; cry
+der Rumpf, ü-e//hull; fuselage/torso
+der Saft, ä-e//juice
+der Salat, -e//salad
+der Sand//sand*
+der Schal, -s//scarf
+der Schalter, -//switch/counter
+der Schatten, -//shadow
+der Scheibenwischer, -//windscreen wiper
+der Schinken, -//ham
+der Schlaf//sleep*
+der Schlafsack, ä-e//sleeping bag
+der Schlager, -//hit (physical) (also hit song i.e. popular song)
+der Schlüssel, -//key
+der Schmerz, -en//ache
+der Schmuck, -e//jewelry
+der Schneider, -//tailor
+der Schnupfen//cold* (illness)
+der Schock, -s//shock (mental)
+der Schornstein, -e//chimney
+der Schoß//lap (body "part")*
+der Schrank, ä-e//cabinet
+der Schriftsteller, -//author
+der Schuh, -e//shoe
+der Schüler, -//student
+der Schüssel, -//bowl
+der Schwager, ä-//brother in law
+der See, -n//lake
+der Sekt, -e//champagne
+der Sessel, -//sofa
+der Singular, -e//singular
+der Sinn, -e//meaning
+der Skandal, -e//scandal
+der Ski, -er//skis
+der Sonnenaufgang//sunrise*
+der Sonnenbad, ä-er//sunbath
+der Sonnenschirm, -e//parasol
+der Sonnenuntergang//sunset*
+der Sozialismus//socialism*
+der Spaß, ä-e//fun/joke
+der Spaziergang, ä-e//walk
+der Speicher, -//storage
+der Spiegel, -//mirror
+der Spieler, -//player m
+der Spitzname, -n//nickname
+der Sprecher, -//spokesman
+der Spruch, ü-e//saying; proverb
+der Stadtplan, ä-e//city map
+der Stadtrand//city outskirts*
+der Stahl, ä-e//steel
+der Stamm, ä-e//tribe
+der Staub//dust*
+der Stecker, -//plug
+der Stempel, -//stamp
+der Steroid, -en//steroid
+der Stil, -e//style
+der Stock, -//floor; level
+der Stoff, -e//materials
+der Strand, ä-e//shore
+der Streik, -s//strike; refusal to work
+der Streit, -e//fight; argument
+der Stress, -e//stress
+der Strom, ö-e//electric current
+der Strumpf, ü-e//long sock
+der Student, -en//university student m
+der Stuhl, ü-e//chair
+der Tanker, -//oil tanker
+der Tänzer, -//dancer m
+der Taschenrechner, -//pocket calculator
+der Tatort, -e//crime scene
+der Taxifahrer, -//taxi driver
+der Tee, -s//tea
+der Teil, -e//part
+der Teilchenbeschleuniger, -//particle accelerator
+der Teller, -//plate
+der Teppich, -e//carpet
+der Termin, -e//appointment
+der Text, -e//text
+der Tierarzt, ä-e//veterinarian
+der Tipp, -s//tip
+der Tisch, -e//table
+der Tischler, -//carpenter m
+der Titel, -//title
+der Tod, -e//death
+der Topf, ö-e//cookery
+der Tourismus//tourism*
+der Trainer, -//trainer
+der Tramper, -//hitchhiker
+der Traum, ä-e//dream
+der Treibsand, -e//quicksand
+der Tropfen, -//drop
+der Turm, ü-e//tower
+der Umschlag, ä-e//envelope
+der Umweg, -e//detour; a longer path
+der Umzug, ü-e//moving of house
+der Unfall, ä-e//accident
+der Unglückstag, -e//unlucky day
+der Unterricht, -e//lesson
+der Unterschied, -e//difference
+der Vagabund, -en//vagabond; hobo
+der Vegetarier, -//vegetarian
+der Verband, ä-e//gauze
+der Verbrauch, ä-e//usage; consumption
+der Verbraucher, -//consumer
+der Verdienst, -e//salary; income
+der Verein, -e//union
+der Verfasser, -//author
+der Verkäufer, -//seller
+der Verkehr//traffic*
+der Verlag, -e//publisher
+der Verleger, -//publisher
+der Vermieter, -//landlord (rental)
+der Vers, -e//verse
+der Verstand//understanding*
+der Versuch, -e//attempt
+der Vizepräsident, -en//vice president
+der Vogel, ö-//bird
+der Vorhang, ä-e//curtain
+der Vormieter, -//former renter
+der Vorname, -n//given name
+der Vorort, -e//suburb
+der Vorschlag, ä-e//suggestion
+der Vorsitzende, -n//president
+der Vortrag, ä-e//lecture; talk
+der Wähler, -//voter
+der Wahlunterricht, -e//elective course
+der Wald, ä-er//forest
+der Waschbär, -en//raccoon
+der Wasserhahn, ä-e//tap
+der Weber, -//weaver
+der Wecker, -//alarm clock
+der Weg, -e//way/method/path
+der Wein, -e//wine
+der Wert, -e//value
+der Wertverlust, -e//depreciation; loss of value over time
+der Wind, -e//wind
+der Wissenschaftler, ä-//scientist
+der Witz//wittiness*
+der Wohnort, -e//residence
+der Wolf, ö-e//wolf
+der Wolkenkratzer, -//skyscraper
+der Wunsch, ü-e//wish
+der Würfel, -//cube
+der Zahn, ä-e//tooth
+der Zahnarzt, ä-e//dentist
+der Zauber//magic*
+der Zaun, ä-e//fence
+der Zeh, -en//toe
+der Zeichentrickfilm, -e//animated film
+der Zeppelin, -e//Blimp
+der Zerfall, ä-e//decay; decomposition
+der Zettel, -//note
+der Zeuge, -n//witness m
+der Zirkel, -//compass (geometry)
+der Zoll, ö-e//customs
+der Zollbeamte, -n//customs officer
+der Zoo, -s//zoo
+der Zucker, -//sugar
+der Zufall, ä-e//coincedence
+der Zugang, ä-e +zu +Dat//access +preposition +case
+der Zugriff, -e +auf +Dat//access +preposition +case
+der Zungenbrecher, -//tongue twister
+der Zusammenhang, ä-e//context
+der Zuschauer, -//viewer
+der Zuschlag, ä-e//surcharge
+der Zweck, -e//purpose
+der/das Bonbon, -s//candy***
+der/das Haarspray, -s//hair spray***
+der/das Liter, -//liter***
+die Abenddämmerung//dusk*
+die Abkürzung, -e//abbreviation
+die Abschlussprüfung, -en//final exam
+die Adresse, -n//address
+die Ähnlichkeit, -en//similarity
+die Akte, -n//file (on a computer)
+die Allergie, -n//allergy
+die Alternative, -n//alternative
+die Ampel, -n//traffic light
+die Ananas, -//pineapple
+die Anatomie//anatomy*
+die Änderung, -en//change; modification
+die Angabe, -n//giving; distribution; providing/information
+die Angst, ä-e//fear
+die Ansichtskarte, -n//postcard
+die Antarktis//Antarctica*
+die Antenne, -n//antenna
+die Antwort, -en//answer
+die Anzeige, -n//advertisement
+die Apotheke, -n//pharmacy
+die Äquivalenz, -en//equivalence
+die Arbeit, -en//work
+die Arktis//Arctic*
+die Armbrust, ü-e//crossbow
+die Armee, -n//army
+die Armut//poverty*
+die Art, -en//type; kind
+die Ärztin, -nen//doctor f
+die Aufgabe, -n//task
+die Aufzeichnung, -en//log; record
+die Augenbraue, -n//eyebrow
+die Ausfuhr, -en//export (e.g. goods)
+die Ausgabe, -n//issue; release (e.g. of a magazine)
+die Ausrede, -n//excuse
+die Aussage, -n//declaration; statement
+die Ausweisung, -en//expulsion; eviction; deportation
+die Autobahnraststätte, -n//highway rest station
+die Autowerkstatt, ä-en//auto repair shop
+die Bachterrasse, -n//terrace
+die Bäckerei, -en//bakery
+die Bahn, -en//train/tracks
+die Ballerina, Ballerinen//ballerina
+die Banane, -n//banana
+die Band, -s//band
+die Bank, -en//bank
+die Bankkauffrau, -en//bank employee f
+die Bar, -s//bar
+die Batterie, -n//battery
+die Bedeutung, -en//meaning
+die Bedienung, -en//remote control/service
+die Bedingung, -en//condition (in a contract/agreement)
+die Begrenzung, -en//limit
+die Behörde, -n//"the authorities"
+die Berufserfahrung, -en//work experience
+die Beschäftigung, -en//work
+die Bestattung, -en//funeral
+die Bestellung, -en//the order (food)
+die Bevölkerung, -en//population
+die Bewerbung, -en//job request
+die Beziehung, -en//relationship
+die Bibliothek, -en//library
+die Biene, -n//bee
+die Bildung, -en//education
+die Bindung, -en//ties; relationship; bond
+die Biologie//biology*
+die Birne, -n//pear
+die Blase, -n//bladder
+die Blume, -n//flower
+die Bluse, -n//blouse
+die Bohne, -n//bean
+die Braut, ä-e//bride
+die Bremsbacke, -n//brake shoe (brake device)
+die Bremse, -n//brake
+die Briefmarke, -n//postage stamp
+die Brücke, -n//bridge
+die Brust, ü-e//chest
+die Buchhandlung, -en//bookstore
+die Bühne, -n//stage
+die Bürgerin, -nen//citizen f
+die Bürste, -n//brush
+die Butter//butter*
+die CD, -s//CD
+die Chemie//chemistry*
+die Couch, -en//couch
+die Dachwohnung, -en//top floor apartment
+die Dankbarkeit//gratitude*
+die Darstellung, -en//representation
+die Demokratie, -n//democracy
+die Deponie, -n//landfill; dump
+die Deutung, -en//interpretation
+die Diät, -en//diet
+die Dichterin, -nen//poet f
+die Diskothek, -en//night club
+die Dolmetscherin, -nen//translator f
+die Dose, -n//can
+die Dummheit, -en//stupidity
+die Dusche, -n//shower
+die Ebbe, -n//low tide
+die Ecke, -n//corner
+die Einfuhr, -en//import (e.g. goods)
+die Einheit, -en//unity
+die Einrichtung, -en//facility
+die Einschränkung, -en//limitation; restriction
+die Elektroleitung, -en//wiring
+die Enkelin, -nen//granddaughter
+die Ente, -n//duck
+die Erdbeere, -n//strawberry
+die Erde, -n//grass; also Planet Earth
+die Erdkunde//geography*
+die Erfahrung, -en//experience
+die Erkältung, -en//cold (noun)
+die Erlaubnis, -se//permission
+die Ernte, -n//harvest
+die Erntezeit//harvest season*
+die Explosion, -en//explosion
+die Fabrik, -en//factory
+die Fahrkarte, -n//ticket
+die Falle, -n//trap
+die Feuchtigkeit, -en//humidity
+die Feuerwehr, -en//fire department
+die Firma, Firmen//company
+die Flasche, -n//bottle
+die Fliege, -n//fly (insect)
+die Flitterwochen//honeymoon (always plural)
+die Flöte, -n//flute
+die Flut, -en//high tide
+die Folge, -n//consequence; effect
+die Forschung, -en//research
+die Fortsetzung, -en//continuation
+die Freiheit, -en//freedom
+die Freiheitsstrafe, -n//imprisonment (lit. restriction of freedom)
+die Freizeit//free time*
+die Freundin, -nen//friend f
+die Friseur, -en//hairstyle
+die Friseurin, -nen//barber f
+die Frucht, ü-e//fruit
+die Frühschicht, -en//day/early shift
+die Fußbodenheizung, -en//floor heating
+die Fußgängerzone, -n//pedestrian street
+die Gabel, -n//fork
+die Ganovin, -nen//criminal; crook f
+die Ganztagsschule, -n//boarding school
+die Garage, -n//garage
+die Garderobe, -n//wardrobe
+die Geburt, -en//birth
+die Geduld//patience*
+die Gefahr, -en//danger
+die Gehirnerschütterung, -en//concussion
+die Gemeinde, -n//community
+die Gerechtigkeit, -en//justice
+die Geschichte, -n//(hi)story
+die Geschwindigkeit, -en//speed
+die Gesundheit, -//health
+die Gewähr//guarantee*
+die Gezeiten//the tides* (pl)
+die Gitarre, -n//guitar
+die Glühbirne, -n//lightbulb
+die Granate, -n//grenade
+die Grippe, -n//flu
+die Grundlage, -n//foundation; basis
+die Gruppe, -n//group
+die Gültigkeit//validity*
+die Gurke, -n//cucumber
+die Hälfte, -n//half
+die Halskette, -n//necklace
+die Haltestelle, -n//stop (e.g. a bus stop)
+die Hand, ä-e//hand
+die Harfe, -n//harp
+die Hauptnahrung//staple food*
+die Hausaufgabe, -n//homework
+die Haut, ä-e//skin
+die Heizung, -en//heater
+die Hexe, -n//witch
+die Hoffnung, -en//hope
+die Höhenangst, ä-e//acrophobia - fear of heights
+die Hütte, -n//cabin/hut
+die Idee, -n//idea
+die Immobilie, -n//structure
+die Ingenieurin, -nen//engineer f
+die Insel, -n//island
+die Jacke, -n//jacket
+die Jahreszahl, -en//time period
+die Kaktee, -n//cactus
+die Kamera, -s//camera
+die Kammer, -n//chamber
+die Kantine, -n//canteen
+die Kapazität, -en//capacity
+die Karriere, -n//career
+die Karte, -n//card
+die Kartoffel, -n//potato
+die Käsetheke//cheese store*
+die Kassette, -n//cassette tape
+die Katastrophe, -n//catastrophe
+die Kindheit//childhood*
+die Kirsche, -n//cherry
+die Kiste, -n//box
+die Kleidung, -en//clothing
+die Klimaanlage//air conditioning*
+die Kollegin, -nen//colleague f
+die Kollision, -en//collision
+die Komödie, -n//comedy
+die Kompostierung, -en//composting
+die Konkurrenz, -en//competition; rivalry (economics)
+die Konsequenz, -en//consequence
+die Kontaktlinse, -n//contact lenses
+die Kopfschmerzen//headache*
+die Kosmetik//cosmetic*
+die Krankenschwester, -n//nurse
+die Krankheit, -en//illness
+die Krawatte, -n//tie (clothing)
+die Kreuzung, -en//intersection
+die Krönung, -en//coronation
+die Küche, -n//kitchen
+die Kugel, -n//ball
+die Kuh, ü-e//cow
+die Kultur, -en//culture
+die Kuppel, -n//cupola
+die Lampe, -n//lamp
+die Landschaft, -en//Landscape
+die Landschaft, ä-e//landscape; view; panorama
+die Länge, -n//length
+die Laune, -n//mood; feeling
+die Lehne, -n//armrest
+die Lehrerin, -nen//teacher f
+die Leiche, -n//corpse
+die Leistung, -en//grade (scholastic)/power (engineering)
+die Leiter, -n//ladder
+die Leiterin, -nen//leader f
+die Leute, -//people
+die Limo, -s//sparkling water
+die Limonade, -n//lemonade
+die Liste, -n//list
+die Lösung, -en//solution
+die Lücke, -n//gap; space
+die Luft, ü-e//air
+die Luftströmung, -en//air flow
+die Mannschaft, -en//team
+die Margarine//margarine*
+die Marke, -n//brand
+die Maschine, -n//machine
+die Maßnahme, -n//measure (e.g. to take precautionary measures)
+die Mathematik//maths*
+die Mauer, -n//wall
+die Maus, ä-e//mouse
+die Medizin, -en//medicine
+die Mehrheit, -en//majority
+die Meinung, -en//opinion
+die Meisterschaft, -en//championship
+die Messe, -n//exposition
+die Metapher, -n//metaphor
+die Metzgerei, -en//butcher
+die Miete, -n//rent
+die Mikrowelle, -n//microwave
+die Million, -en//million
+die Minderheit, -en//minority
+die Mine, -n//pencil/pen lead
+die Minute, -n//minute
+die Mitgliedschaft, -en//membership
+die Mitternacht, ä-e//midnight
+die Möbeltischlerin, -nen//furniture maker f
+die Möglichkeit, -en//possibility
+die Monarchie, -n//monarchy
+die Moral, -en//morality
+die Mühle, -n//mill
+die Mütze, -n//hat
+die Nachbildung, -en//replica
+die Nachricht, -en//message/news
+die Nacht, ä-e//night
+die Nachtschicht, -en//night shift
+die Nase, -n//nose
+die Neugier//curiosity*
+die Nichte, -n//niece
+die Niere, -n//kidney
+die Nudel, -n//noodle
+die Nuss, ü-e//nut
+die Öffentlichkeit, -en//the public
+die Ökologie, -//ecology
+die Oper, -n//opera
+die Orchidee, -n//orchid
+die Ordnung, -en//order; not chaos
+die Packung, -en//pack
+die Palme, -n//palm tree
+die Panne, -n//break down
+die Pappe, -n//cardboard
+die Parkuhr, -en//Parking Meter
+die Partei, -en//political party
+die Partnerschaft, -en//partnership
+die Party, -s//party
+die Pause, -n//break; rest period
+die Pensionierung, -en//retirement
+die Persönlichkeit, -en//personality
+die Pfeife, -n//pipe
+die Pferdestärke, -n//horsepower
+die Pflanze, -n//plant
+die Pflanzenerde, -n//potting soil; soil for plants
+die Pflege//care; nursing*
+die Pflicht, -en//obligation
+die Physik//physics*
+die Pistazie, -n//pistachio
+die Pizza, -s/-en//pizza****
+die Plastiktüte, -n//plastic bag
+die Platte, -n//platter
+die Politik, -en//politics
+die Postkarte, -n//postcard
+die Postleitzahl, -en//ZIP code
+die Präsidentschaft//presidency*
+die Praxis, Praxen//practice (med/prof.)
+die Presse//"the press"*
+die Priorität, -en//priority
+die Probefahrt, -en//test drive
+die Professorin, -nen//professor f
+die Prüfung, -en//test
+die Psychologie//psychology*
+die Pünktlichkeit//punctuality*
+die Qual, -en//torture
+die Quelle, -n//source
+die Rache//revenge*
+die Rätin, -nen//counselor f
+die Rechnung, -en//bill
+die Rechtslehre//law* (school subject)
+die Regel, -n//rule
+die Regierung, -en//government
+die Reihenfolge, -n//order; sequence
+die Reinigung, -en//dry cleaning
+die Reise, -n//trip
+die Rentnerin, -nen//pensioner
+die Rose, -n//rose (flower)
+die Rubrik, -en//category
+die Rückenlehne, -n//backrest
+die Rundreise, -n//tour
+die Sache, -n//event
+die Sahne//cream*
+die Sauberkeit//cleanliness*
+die Sauna, Saunen//sauna
+die Schätzung, -en//estimate
+die Scheu//shyness; timidness*
+die Schichtarbeit, -en//shift-based work (day shift and night shift)
+die Schlafstörung, -en//sleep disturbance
+die Schlagzeile, -n//headline
+die Schmeichelei, -en//flattery
+die Schokolade, -n//chocolate
+die Schublade, -n//drawer
+die Schulaufgabe, -n//homework
+die Schuld, -en//fault; blame
+die Schule, -n//school
+die Schürze, -n//apron
+die Schwägerin, -nen//sister in law
+die Schwankung, -en//difference
+die Schwierigkeit, -en//difficulty
+die Sehenswürdigkeit, -en//sights; attraction
+die Seife, -n//soap
+die Seite, -n//page
+die Sekretärin, -nen//secretary f
+die Sendung, -en//program, (e.g. TV, radio, etc)
+die Siedlung, -en//settlement; estate
+die Silvesterparty, -s//New Year's Eve party
+die Simulation, -en//simulation
+die Sinfonie, -n//symphony
+die Situation, -en//situation
+die Skihose, -n//ski pants
+die Sonne, -n//Sun
+die Sorge, -n//worries
+die Sorte, -n//type; kind
+die Soße, -n//sauce
+die Speicherkapazität, -en//storage capacity
+die Speisekammer, -n//pantry
+die Speisekarte, -n//menu
+die Spezialität, -en//specialty
+die Sprache, -n//language
+die Spüle, -n//kitchen sink
+die Stadtmitte//city center*
+die Stammkneipe, -n//pub
+die Steckdose, -n//power outlet
+die Steigerung, -en//increase
+die Steuer, -n//tax
+die Stewardess, -en//flight hostess
+die Stimme, -n//voice
+die Stimmung, -en//mood
+die Stirn, -en//forehead
+die Störung, -en//disturbance
+die Strafe, -n//penalty; punishment
+die Straßenkünstlerin, -nen//street performer f
+die Strategie, -n//strategy
+die Strecke, -n//route; distance
+die Studentin, -nen//university student f
+die Stunde, -n//hour
+die Suchmeldung, -en//search
+die Suppe, -n//soup
+die Szene, -n//scene
+die Tabelle, -n//table
+die Tablette, -n//tablet
+die Tankstelle, -n//gas station
+die Tänzerin, -nen//dancer f
+die Tarnung, -en//disguise
+die Taschenlampe, -n//flashlight
+die Tasse, -n//cup
+die Taube, -n//pigeon
+die Telefonistin, -nen//telephone operator f
+die Telefonnummer, -n//phone number
+die Telefonrechnung, -en//phone bill
+die Telefonzelle, -n//phone booth
+die Terrasse, -n//terrace
+die Therapie, -n//therapy; treatment
+die Tiefgarage, -n//underground garage
+die Tischlerin, -nen//carpenter f
+die Tochter, ö-//daughter
+die Tomate, -n//tomato
+die Torte, -n//cake
+die Treppe, -n//stair
+die Trockenheit, -en//dryness
+die Trommel, -n//drum (instrument)
+die Tugend, -en//moral values
+die Tür, -en//door
+die Türklinke, -n//door handle
+die Überraschung, -en//surprise
+die Überstunde, -n//overtime hour
+die Übung, -en//exercise (academic)
+die Uhr, -en//clock
+die Uhrzeit, -en//schedule
+die Umgebung, -en//surroundings
+die Unschuld//innocence/virginity*
+die Untersuchung, -en//investigation
+die Ursache, -n//cause
+die Variante, -n//version; variant
+die Vase, -n//vase
+die Verbindung, -en//transport lines; connection
+die Verfassung, -en//state (e.g. of health/mind)
+die Verletzung, -en//injury
+die Vermögensbildung, -en//wealth creation
+die Vermutung, -en//assumption
+die Verpackung, -en//packaging
+die Versicherung, -en//insurance
+die Vielfalt an +Akk//the variety of*/**
+die Vorschau, -en//preview
+die Vorspeise, -n//appetizer
+die Vorstellung, -en//performance
+die Vorwarnung, -en//warning; notice
+die Wahl, -en//choice
+die Wahrheit, -en//truth
+die Wand, ä-e//wall
+die Ware, -n//product
+die Wäsche, -n//laundry
+die Waschmaschine, -n//washing machine
+die Welt, -en//world
+die Werbung, -en//commercial
+die Werkstatt, ä-en//workshop
+die Wettervorhersage, -n//weather forecast
+die Wiese, -n//meadow
+die Wirtschaftslehre//economics*
+die Woche, -n//week
+die Wohnküche, -n//kitchen in the living room
+die Wohnung, -en//apartment
+die Wolke, -n//cloud
+die Wolldecke, -n//wool blanket
+die Wunschliste, -n//wish list
+die Wurst, ü-e//sausage
+die Wüste, -n//desert
+die Zahl, -en//number
+die Zahnbürste, -n//toothbrush
+die Zahnpasta, Zahnpasten//toothpaste
+die Zehe, -n//toe
+die Zeichenerklärung, -en//legend; key
+die Zeitung, -en//newspaper
+die Zeugin, -nen//witness f
+die Zeugnisnote, -n//grade (scholastic)
+die Zigarette, -n//cigarette
+die Zukunft, ü-e//future
+die Zunge, -n//tongue
+die Zwiebel, -n//onion
+Weihnachten//Christmas* (no article)

@@ -1,0 +1,110 @@
+arbeitete//arbeiten
+aß//essen
+aßest//essen 2º sing
+atmete//atmen
+band//binden
+bat//bitten (to request)
+befahl//befehlen (to command)
+begann//beginnen
+bestellte//bestellen
+biss//beißen (to bite)
+bissest//beißen 2º sing
+blickte//blicken (to look)
+blieb//bleiben
+bot//bieten
+brach//brechen
+brachte//bringen
+brannte//brennen (to burn)
+dachte//denken
+durfte//dürfen
+entdeckte//entdecken
+erzählte//erzählen
+fand//finden
+fiel//fallen
+fing//fangen (to catch)
+flog//fliegen
+floh//fliehen (to flee)
+floss//fließen
+fror//frieren (to freeze)
+fuhr//fahren
+gab//geben
+genoss//genießen
+gewann//gewinnen
+ging//gehen
+gingst//gehen 2º sing
+goss//gießen (to pour)
+half//helfen
+hatte//haben
+hielt//halten (to hold)
+hing//hängen
+hob//heben (to lift)
+holte//holen (to fetch)
+kam//kommen
+kannte//kennen
+klang//klingen (to sound)
+konnte//können
+lag//liegen
+las//lesen
+lernte//lernen
+lief//laufen
+lieh//leihen (to lend)
+ließ//lassen
+log//lügen
+lud//laden (to load)
+machte//machen
+maß//messen
+mochte//mögen
+musste//müssen
+nahm//nehmen
+nannte//nennen (to name)
+rannte//rennen
+rechnete//rechnen
+redete//reden
+reichte//reichen (to be enough)
+rief//rufen
+riet//raten
+roch//riechen (to smell)
+sah//sehen
+saß//sitzen
+schien//scheinen
+schlief//schlafen
+schloss//schließen
+schlug//schlagen (to hit)
+schnitt//schneiden
+schoss//schießen
+schrie//schreien (to shout)
+schrieb//schreiben
+schuf//schaffen
+schwamm//schwimmen
+setzte//setzen
+sollte//sollen
+sprach//sprechen
+stahl//stehlen
+stand//stehen
+starb//sterben
+stieg//steigen (to climb)
+stieß//stoßen (to push)
+stritt//streiten (to quarrel)
+studierte//studieren
+suchte//suchen
+tankte//tanken
+tat//tun
+traf//treffen
+trank//trinken
+trat//treten (to kick/to step)
+trug//tragen
+vergaß//vergessen
+verlor//verlieren
+verschwand//verschwinden (to disappear)
+verzieh//verzeihen (to forgive)
+war//sein
+warf//werfen
+warst//sein 2º sing
+wog//wiegen
+wollte//wollen
+wuchs//wachsen (to grow)
+wünschte//wünschen
+wurde//werden
+wusch//waschen
+wusste//wissen
+zerstörte//zerstören

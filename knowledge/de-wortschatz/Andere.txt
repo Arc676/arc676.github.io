@@ -1,0 +1,348 @@
+à//per
+ab und zu//now and then; from time to time
+ab//starting from
+aber//but
+abhängig von//depending on
+abhängig//dependent
+ähnlich//similar
+aktuell//actual; current
+alle//all gone
+allein//alone
+allgemein//general (adj)
+alternativ//alternative
+am liebsten//most happily
+an//at/on
+angenehm//comfortable
+anstatt +Gen//instead of**
+anstrengend//tiring
+arm//poor
+attraktiv//attractive
+ätzend//corrosive/caustic/horrible
+ausgerechnet//directly; right (e.g. "right in front of")
+ausländisch//foreign
+ausreichend//4 on a 1(+) ~ 6(-) scale (scholastic)
+ausschließlich//only; exclusively
+außerdem//aside from that
+bald//soon
+befreundet//friends with
+befriedigend//3 on a 1(+) ~ 6(-) scale (scholastic)
+begeistert//excited
+behutsam//careful
+beinah//almost; nearly
+bekannt//famous
+beliebt//loved
+bequem//comfortable
+bereit//ready
+berufstätig//employed
+berühmt//famous
+beschieden//satisfied; having low expectations
+besetzt//occupied
+besoffen//wasted (drunk) (colloquial)
+bestimmt//definitely
+betrunken//drunk
+bewölkt//cloudy
+bewusst//conscious; aware
+bewusstlos//unconscious
+bezüglich//concerning; about
+bis jetzt//until now
+bisher//until now
+bitterlich//bitterly
+breit//wide
+brutto//gross (economics)
+bürokratisch//bureaucratic
+christlich//christian
+da//there
+danach//after that
+dauernd//constantly
+demokratisch//democratic
+denn//because
+deutlich//clear
+deutschsprachig//German speaking
+dick//fat
+dort//there
+dreckig//dirty
+dringend//urgent
+dunkel//dark
+dünn//skinny
+durch//through
+durstig//thirsty
+dynamisch//dynamic
+echt//real
+ehemalig//former; previous
+eher//closer to (on a spectrum)
+ehrgeizig//ambitious
+ehrlich//honest
+eigene//own; possessed by oneself
+eigentlich//actually
+eindeutig//clear
+eingebaut//built in
+einsam//lonely
+einschließlich//including
+emanzipiert//liberated; emancipated
+empfindlich//sensitive
+endlich//finally
+eng//thin
+entfernt//distant
+entspannt//relaxed
+entweder//either
+erfolgreich//successful
+erleichtert//relieved
+erneut//again
+erstaunt//surprised; startled
+erwachsen//grown up
+essbar//edible
+etwa//approximately
+ewig//endless, infinite, forever (time)
+extrem//extreme
+fein//fine; delicate
+fertig//done
+fest//fixed/heavy
+fett//fat (food)
+feucht//humid
+flach//flat
+fließend//fluent
+folgend//following (adj)
+fremd//foreign
+frisch//fresh
+froh//glad; happy
+fröhlich//jolly
+furchtbar//incredible
+gegen//against
+geheim//secret; confidential
+geizig//stingy
+gemäßigt//average
+gemütlich//likeable
+genau//exactly
+genug//enough
+gerade//just now
+geradeaus//straight
+geschieden//divorced
+geschwind//fast
+gestern//yesterday
+geteilt//divided
+gewöhnlich//usually
+glatt//straight/smooth/slippery
+glücklich//happy
+grausam//cruel
+grenzenlos//limitless
+grundlos//for no reason
+gültig//valid
+günstig//favorable
+hart//hard
+hässlich//ugly
+häufig//frequent
+hell//light
+herb//sour
+herrlich//great
+herzlich//cordially
+hilfreich//helpful
+hin und her//back and forth; to and fro
+höflich//polite
+hörbar//audible
+hübsch//beautiful
+hungrig//hungry
+im Grunde//basically (phrased like "in the end")
+imaginär//imaginary
+immer//always
+individuell//individual
+inzwischen//in/at this time
+jährlich//yearly
+je nach//depending on
+jedenfalls//in any case
+jedoch//but
+kaum//barely
+keinesfalls//under no circumstances
+klar//clear
+klug//smart (IQ)
+knapp//barely; scarce
+komisch//strange
+komplett//complete
+konkret//concrete; not abstract
+krumm//crooked
+kühl//cool
+kurzfristig//on short notice
+kürzlich//recently
+lächerlich//ridiculous
+lästig//annoying
+lauwarm//lukewarm
+lebendig//lively
+ledig//single
+leer//empty
+leicht//easy/light(weight)
+leichtfertig//frivolous; not thought out
+leider//regrettably
+letzt//last
+lieb//dear
+lieber//more happily
+lösbar//solvable
+männlich//male
+meinetwegen//in my opinion
+meist//most
+meistens//usually
+mindestens//at least
+miteinander//with one another
+modisch//fashionable
+momentan//currently
+morgen//tomorrow
+müde//tired
+nächst//next
+nah//nearby
+naiv//naïve
+nass//very humid
+neblig//foggy
+nervös//nervous
+nett//cute
+netto//net (economics)
+neugierig//curious
+nie//never
+niemals//never
+noch//still
+notwendig//necessary
+nützlich//useful
+oben//above
+obligatorisch//mandatory
+obwohl//although; even though
+offen//open
+offenbar//apparently
+offensichtlich//obvious
+offiziell//official
+ohnmächtig//unconscious
+ökonomisch//economic
+passend//suitable; fit
+persönlich//personal
+plötzlich//suddenly
+praktisch//practical
+pro//per
+pünktlich//punctual
+qualifiziert//qualified
+ratlos//baffled; helpless; at a loss
+raus//out
+reich//rich
+riskant//risky
+rutschig//slippery
+salzig//salty
+satt//full (of food)
+sauber//clean
+sauer//sour
+schade//pity
+scharf//spicy
+schief//crooked
+schlank//thin
+schlapp//weak
+schließlich//eventually
+schlimm//serious; dangerous
+schmal//thin
+schmutzig//dirty
+schnell//fast
+schon wieder//again
+schrecklich//scary
+schuldig//guilty
+schwach//weak
+selbst//by oneself
+selbständig//independent
+selbstverständlich//evident
+selten//inoften
+seltsam//strange
+sichtbar//visible
+sinnvoll//meaningful
+sitt//full (of drink) (colloquial)
+skurril//comical; whimsical
+sobald//as soon as
+soeben//just; right now; just now
+sofern//as long as; if
+sofort//immediately
+sogar//even (emphasis)
+solange//as long as; while
+sonderbar//strange
+sonstig//other (category)
+sowie//as well as
+sowohl... als...//both... and...
+sozialistisch//socialist
+spezifisch//specific
+spitz//sharp/pointy/acute
+sportlich//sporty
+staatlich//public; owned by the state
+standesamtlich//civil
+ständig//constantly
+stark//strong
+statt//instead of
+steil//steep
+sterblich//mortal
+stets//always
+stolz//proud
+streng//strict
+stumm//mute (unable to speak)
+süß//sweet
+täglich//daily
+tatsächlich//actually
+taub//deaf/numb
+technisch//technical(ly)
+tief//deep
+total//complete
+traurig//sad
+trennbar//separable
+treu//loyal
+trocken//dry
+trostlos//dreary
+trotz +Dat/+Gen//regardless of**
+typisch//typical
+übel//bad; evil; foul
+überflüssig//unnecessary
+übermorgen//the day after tomorrow
+überwiegend//mainly
+übrig//left; remaining; spare
+umgangssprachlich//colloquial
+umsonst//free of charge
+unbedingt//definitely
+ungewöhnlich//uncommon
+unpraktisch//unpractical
+unschuldig//innocent
+Unsinn!//Nonsense! (include "!")
+unten//below
+unter der Woche//during the week
+unterschiedlich//different
+verängstigt//scared; frightened
+verantwortlich//responsible
+verdächtig//suspicious
+verfügbar//available
+verheiratet//married
+verpflichtet//committed
+verrückt//crazy
+verschieden//different
+versehentlich//inadvertently
+verwirrend//confusing
+verwitwet//widowed
+völlig//completely
+vollkommen//complete
+von Angesicht zu Angesicht//face to face
+vor allem//above all
+vorbei//over; past
+vorgestern//the day before yesterday
+vorher//earlier; before
+vorig//past (e.g. "past weeks")
+vorsichtig//careful
+vorwiegend//mainly
+wachsam//vigilant; watchful
+wählerisch//picky
+während//while
+wann//when
+was für//what kind of
+wasserfest//waterproof
+weder... noch...//neither... nor...
+wegen//because
+weiblich//female
+weich//soft
+weil//because
+weiter//further
+wenigstens//at least
+wesentlich//essential
+winzig//tiny
+wirklich//really; seriously
+witzig//witty
+wohl//maybe
+zu Hause//at home
+zuerst//firstly
+zufrieden//satisfied
+zumindest//at least
+zuständig//responsible
+zuverlässig//reliable

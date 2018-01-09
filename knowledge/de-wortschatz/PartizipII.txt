@@ -1,0 +1,117 @@
+befohlen//befehlen (to command)
+beglichen//begleichen
+begonnen//beginnen
+bestellt//bestellen
+betrogen//betrügen
+entdeckt//entdecken
+erzählt//erzählen
+gearbeitet//arbeiten
+geatmet//atmen
+gebeten//bitten (to request)
+gebissen//beißen (to bite)
+geblieben//bleiben
+geboten//bieten
+gebracht//bringen
+gebrannt//brennen (to burn)
+gebrochen//brechen
+gebunden//binden (to tie)
+gedacht//denken
+gedemütigt//demütigen
+gedurft//dürfen
+gefahren//fahren
+gefallen//fallen
+gefangen//fangen (to catch)
+geflogen//fliegen
+geflohen//fliehen
+geflossen//fließen
+gefroren//frieren (to freeze)
+gefunden//finden
+gegangen//gehen
+gegeben//geben
+gegessen//essen
+gegossen//gießen (to pour)
+gehabt//haben
+gehalten//halten (to hold)
+gehangen//hängen
+gehoben//heben (to lift)
+geholfen//helfen
+geholt//holen (to fetch)
+gekannt//kennen
+geklungen//klingen (to sound)
+gekommen//kommen
+gekonnt//können
+geladen//laden
+gelassen//lassen
+gelaufen//laufen
+gelegen//liegen
+gelesen//lesen
+geliehen//leihen
+gelitten//leiden (to suffer)
+gelogen//lügen
+gemacht//machen
+gemessen//messen
+gemocht//mögen
+gemusst//müssen
+genannt//nennen
+genommen//nehmen
+genossen//genießen
+gerannt//rennen
+geraten//raten
+gerechnet//rechnen
+geredet//reden
+gereicht//reichen (to be enough)
+gerochen//riechen (to smell)
+gerufen//rufen
+geschaffen//schaffen
+geschienen//scheinen
+geschlafen//schlafen
+geschlagen//schlagen
+geschlossen//schließen
+geschnitten//schneiden
+geschossen//schießen
+geschrieben//schreiben
+geschrien//schreien (to shout)
+geschützt//schützen
+geschweißt//schweißen (to weld)
+geschwommen//schwimmen
+gesehen//sehen
+gesessen//sitzen
+gesetzt//setzen
+gesollt//sollen
+gesprochen//sprechen
+gestanden//stehen
+gestellt//stellen
+gestiegen//steigen (to climb)
+gestohlen//stehlen
+gestorben//sterben
+gestoßen//stoßen (to push)
+gestritten//streiten (to quarrel)
+gesungen//singen
+getan//tun
+getankt//tanken
+getragen//tragen
+getreten//treten (to kick/to step)
+getroffen//treffen
+getrunken//trinken
+gewachsen//wachsen (to grow)
+gewaschen//waschen
+gewesen//sein
+gewogen//wiegen
+gewollt//wollen
+gewonnen//gewinnen
+geworden//werden
+geworfen//werfen
+gewusst//wissen
+lackiert//lackieren
+studiert//studieren
+verfälscht//verfälschen
+verglichen//vergleichen
+verklagt//verklagen (to sue)
+verloren//verlieren
+verprügelt//verprügeln (to hit)
+verschluckt//verschlucken (to swallow)
+verschwunden//verschwinden
+versteckt//verstecken
+verziehen//verzeihen (to forgive)
+zerstört//zerstören
+zurückgeblickt//zurückblicken (to look back)
