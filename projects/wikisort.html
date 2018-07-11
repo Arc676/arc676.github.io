@@ -1,0 +1,32 @@
+
+<html>
+	<meta http-equiv="content-type" content="text/html; charset=UTF-8" />
+	<title>Projects: WikiSort</title>
+	<head>
+		<h1>WikiSort</h1>
+		<a href="/projects/projects.html">Back to all projects</a>
+		<link rel="stylesheet" href="/mainstyles.css">
+		<script type="text/javascript" src="/js/jquery.js"></script>
+		<script type="text/javascript">
+			$(document).ready(function(){
+			    $('#navbar').load('/navbar.html');
+			});
+		</script>
+	</head>
+	<body>
+		<div id="navbar"></div>
+		<a href="https://github.com/Arc676/WikiSort">Repository</a><br>
+		<p>
+			The goal of Project WikiSort is to implement every sorting algorithm that has its own Wikipedia page and collating all of them into a single, open source library. The basic sorting algorithms such as bubble, insertion, selection, and merge were implemented first and thus do not have a corresponding issue on GitHub. However, there is an open issue for every sorting algorithm that has not yet been implemented. The project is available under GPLv3 and contributions are more than welcome, especially for some of the more complex algorithms. Check the repository issues for more details.
+		</p>
+		<p>
+			The WikiSort library could be used for research purposes, comparing the efficiency and runtime of various sorting algorithms. Some such data might be included in the repository at a future date.
+		</p>
+		<p>
+			WikiSort is a C library and should be compatible with any 64 bit platform.
+		</p>
+		<p>
+			The pointer arithmetic assumes 64 bit pointers. Modifying the code to allow 32 bit pointers shouldn't be difficult, but it's not at the top of the priorities list. Feel free to open a PR if you would like to work on this (described in <a href="https://github.com/Arc676/WikiSort/issues/56">issue #56</a>).
+		</p>
+	</body>
+</html>
