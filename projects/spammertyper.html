@@ -1,0 +1,39 @@
+<html>
+	<meta http-equiv="content-type" content="text/html; charset=UTF-8" />
+	<title>Projects: SpammerTyper</title>
+	<head>
+		<h1>SpammerTyper</h1>
+		<a href="/projects/projects.html">Back to all projects</a>
+		<link rel="stylesheet" href="/mainstyles.css">
+		<script type="text/javascript" src="/js/jquery.js"></script>
+		<script type="text/javascript">
+			$(document).ready(function(){
+			    $('#navbar').load('/navbar.html');
+			});
+		</script>
+	</head>
+	<body>
+		<div id="navbar"></div>
+		<a href="https://github.com/Arc676/SpammerTyper">Repository</a><br>
+		<a href="https://arc676.itch.io/spammertyper">itch.io page</a>
+		<p>
+			SpammerTyper is a typing game. It uses the <a href="http://orx-project.com">Orx</a> library. The project was created for <a href="https://itch.io/jam/open-jam-2018">Open Jam 2018</a> on <a href="https://itch.io/">itch.io</a>. The theme was "Spam to win." The objective is to type the incoming letters and numbers before they hit you, while balancing the zoom level, which changes with each key you hit and affects your field of vision and character spawn rate, as well as your HP total, which affects the speed of the incoming characters.
+		</p>
+		<p>
+			Check out the README for more details about the gameplay.
+		</p>
+		<p>
+			Platform availability:
+			<ul>
+				<li>Linux/Mac
+					<p>
+						Linux and Mac are the primary development platforms. A Makefile is included in the repository for compilation. The release build of the Orx library (Linux version for x86 platforms) is included. ZIP files containing the compiled binary and game assets (Linux) or the Mac application are available for download from both GitHub and itch.io. The provided Linux binary is for x86 platforms. If you are using Linux on a different architechture, if it's supported by Orx, you can compile the library and game yourself.
+					</p>
+				<li>Windows
+					<p>
+						Windows is only used for testing and ensuring that the project compiles and runs properly on the platform. At any given time, the included Visual Studio 2017 project is likely to be most behind. The release build of the Orx library is included in the repository as well. You can download the compiled EXE file and game assets compressed in a ZIP file from GitHub or itch.io.
+					</p>
+			</ul>
+		</p>
+	</body>
+</html>
