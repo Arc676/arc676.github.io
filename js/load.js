@@ -1,7 +1,7 @@
 // https://stackoverflow.com/a/17901198/2773311
 // https://stackoverflow.com/a/63519229/2773311
-function load(url, element) {
+function load(doc, url, element) {
 	fetch(url)
 		.then(res => { res.text(); })
-		.then(html => { document.getElementById(element).innerHTML = html; });
+		.then(html => { doc.getElementById(element).innerHTML = html; });
 }
